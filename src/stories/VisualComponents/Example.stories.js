@@ -1,5 +1,5 @@
 import Example from '../../VisualComponents/Example/Example.vue';
-
+import exampleObj from '../../VisualComponents/Example/test-data/example.json'
 
 export default {
   title: 'VisualComponents/Examples/Demo',
@@ -68,3 +68,10 @@ export const Tertiary = {
     color: '#00f'
   }
 };
+
+export const FromFile = {
+  args: {
+    title: exampleObj.title,
+    color: exampleObj.color,
+  }
+}
