@@ -2,7 +2,7 @@ import Example from '../../VisualComponents/Example/Example.vue';
 
 
 export default {
-  title: 'VisualComponents/Examples/Demo',
+  title: 'VisualComponents/3D/1D-3D',
   component: Example,
   parameters: {
     layout: 'centered',

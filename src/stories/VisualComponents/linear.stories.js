@@ -2,7 +2,7 @@ import Example from '../../VisualComponents/Example/Example.vue';
 
 
 export default {
-  title: 'VisualComponents/Examples/Demo',
+  title: 'VisualComponents/Linear/Lollypop',
   component: Example,
   parameters: {
     layout: 'centered',
