@@ -1,0 +1,5298 @@
+[
+  {
+    "residue": "M",
+    "position": 1,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.213,
+    "backbone_dynamics": 0.733,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "S",
+    "position": 2,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.254,
+    "backbone_dynamics": 0.751,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "H",
+    "position": 3,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.214,
+    "backbone_dynamics": 0.786,
+    "early_folding": 0.032
+  },
+  {
+    "residue": "V",
+    "position": 4,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.194,
+    "backbone_dynamics": 0.815,
+    "early_folding": 0.057
+  },
+  {
+    "residue": "A",
+    "position": 5,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.232,
+    "backbone_dynamics": 0.837,
+    "early_folding": 0.1
+  },
+  {
+    "residue": "V",
+    "position": 6,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.273,
+    "backbone_dynamics": 0.838,
+    "early_folding": 0.093
+  },
+  {
+    "residue": "E",
+    "position": 7,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.309,
+    "backbone_dynamics": 0.825,
+    "early_folding": 0.054
+  },
+  {
+    "residue": "N",
+    "position": 8,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.276,
+    "backbone_dynamics": 0.801,
+    "early_folding": 0.045
+  },
+  {
+    "residue": "A",
+    "position": 9,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.238,
+    "backbone_dynamics": 0.774,
+    "early_folding": 0.042
+  },
+  {
+    "residue": "L",
+    "position": 10,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.222,
+    "backbone_dynamics": 0.756,
+    "early_folding": 0.032
+  },
+  {
+    "residue": "G",
+    "position": 11,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.207,
+    "backbone_dynamics": 0.764,
+    "early_folding": 0.028
+  },
+  {
+    "residue": "L",
+    "position": 12,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.192,
+    "backbone_dynamics": 0.782,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "D",
+    "position": 13,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.186,
+    "backbone_dynamics": 0.808,
+    "early_folding": 0.031
+  },
+  {
+    "residue": "Q",
+    "position": 14,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.185,
+    "backbone_dynamics": 0.815,
+    "early_folding": 0.045
+  },
+  {
+    "residue": "Q",
+    "position": 15,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.199,
+    "backbone_dynamics": 0.802,
+    "early_folding": 0.054
+  },
+  {
+    "residue": "F",
+    "position": 16,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.203,
+    "backbone_dynamics": 0.785,
+    "early_folding": 0.078
+  },
+  {
+    "residue": "A",
+    "position": 17,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.226,
+    "backbone_dynamics": 0.767,
+    "early_folding": 0.078
+  },
+  {
+    "residue": "G",
+    "position": 18,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.221,
+    "backbone_dynamics": 0.755,
+    "early_folding": 0.06
+  },
+  {
+    "residue": "L",
+    "position": 19,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.229,
+    "backbone_dynamics": 0.745,
+    "early_folding": 0.056
+  },
+  {
+    "residue": "D",
+    "position": 20,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.227,
+    "backbone_dynamics": 0.748,
+    "early_folding": 0.029
+  },
+  {
+    "residue": "L",
+    "position": 21,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.221,
+    "backbone_dynamics": 0.721,
+    "early_folding": 0.022
+  },
+  {
+    "residue": "N",
+    "position": 22,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.242,
+    "backbone_dynamics": 0.669,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "S",
+    "position": 23,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.25,
+    "backbone_dynamics": 0.642,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "S",
+    "position": 24,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.265,
+    "backbone_dynamics": 0.623,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "D",
+    "position": 25,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.271,
+    "backbone_dynamics": 0.618,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "N",
+    "position": 26,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.278,
+    "backbone_dynamics": 0.601,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "Q",
+    "position": 27,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.288,
+    "backbone_dynamics": 0.58,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "S",
+    "position": 28,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.289,
+    "backbone_dynamics": 0.554,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 29,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.293,
+    "backbone_dynamics": 0.529,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 30,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.294,
+    "backbone_dynamics": 0.527,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "S",
+    "position": 31,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.304,
+    "backbone_dynamics": 0.554,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "T",
+    "position": 32,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.315,
+    "backbone_dynamics": 0.575,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "A",
+    "position": 33,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.317,
+    "backbone_dynamics": 0.606,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 34,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.319,
+    "backbone_dynamics": 0.621,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "K",
+    "position": 35,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.312,
+    "backbone_dynamics": 0.621,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "G",
+    "position": 36,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.303,
+    "backbone_dynamics": 0.635,
+    "early_folding": 0.008
+  },
+  {
+    "residue": "R",
+    "position": 37,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.302,
+    "backbone_dynamics": 0.659,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "Y",
+    "position": 38,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.298,
+    "backbone_dynamics": 0.687,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "I",
+    "position": 39,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.292,
+    "backbone_dynamics": 0.714,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "P",
+    "position": 40,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.308,
+    "backbone_dynamics": 0.723,
+    "early_folding": 0.023
+  },
+  {
+    "residue": "P",
+    "position": 41,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.327,
+    "backbone_dynamics": 0.723,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "H",
+    "position": 42,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.332,
+    "backbone_dynamics": 0.717,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "L",
+    "position": 43,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.335,
+    "backbone_dynamics": 0.72,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "R",
+    "position": 44,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.343,
+    "backbone_dynamics": 0.72,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "N",
+    "position": 45,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.324,
+    "backbone_dynamics": 0.723,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "R",
+    "position": 46,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.335,
+    "backbone_dynamics": 0.726,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "E",
+    "position": 47,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.336,
+    "backbone_dynamics": 0.732,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "A",
+    "position": 48,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.342,
+    "backbone_dynamics": 0.726,
+    "early_folding": 0.032
+  },
+  {
+    "residue": "T",
+    "position": 49,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.339,
+    "backbone_dynamics": 0.726,
+    "early_folding": 0.039
+  },
+  {
+    "residue": "K",
+    "position": 50,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.333,
+    "backbone_dynamics": 0.707,
+    "early_folding": 0.024
+  },
+  {
+    "residue": "G",
+    "position": 51,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.326,
+    "backbone_dynamics": 0.709,
+    "early_folding": 0.031
+  },
+  {
+    "residue": "F",
+    "position": 52,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.327,
+    "backbone_dynamics": 0.714,
+    "early_folding": 0.055
+  },
+  {
+    "residue": "Y",
+    "position": 53,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.335,
+    "backbone_dynamics": 0.728,
+    "early_folding": 0.046
+  },
+  {
+    "residue": "D",
+    "position": 54,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.336,
+    "backbone_dynamics": 0.742,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "K",
+    "position": 55,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.327,
+    "backbone_dynamics": 0.721,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "D",
+    "position": 56,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.326,
+    "backbone_dynamics": 0.698,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 57,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.326,
+    "backbone_dynamics": 0.657,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "S",
+    "position": 58,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.335,
+    "backbone_dynamics": 0.623,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "G",
+    "position": 59,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.339,
+    "backbone_dynamics": 0.618,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "W",
+    "position": 60,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.345,
+    "backbone_dynamics": 0.641,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "S",
+    "position": 61,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.357,
+    "backbone_dynamics": 0.651,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "S",
+    "position": 62,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.362,
+    "backbone_dynamics": 0.64,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "S",
+    "position": 63,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.37,
+    "backbone_dynamics": 0.643,
+    "early_folding": 0.008
+  },
+  {
+    "residue": "K",
+    "position": 64,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.378,
+    "backbone_dynamics": 0.661,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "D",
+    "position": 65,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.387,
+    "backbone_dynamics": 0.691,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "K",
+    "position": 66,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.425,
+    "backbone_dynamics": 0.705,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "D",
+    "position": 67,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.441,
+    "backbone_dynamics": 0.714,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "A",
+    "position": 68,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.438,
+    "backbone_dynamics": 0.698,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "Y",
+    "position": 69,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.453,
+    "backbone_dynamics": 0.692,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "S",
+    "position": 70,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.45,
+    "backbone_dynamics": 0.67,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "S",
+    "position": 71,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.438,
+    "backbone_dynamics": 0.659,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "F",
+    "position": 72,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.432,
+    "backbone_dynamics": 0.637,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "G",
+    "position": 73,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.423,
+    "backbone_dynamics": 0.608,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "S",
+    "position": 74,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.43,
+    "backbone_dynamics": 0.595,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "R",
+    "position": 75,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.432,
+    "backbone_dynamics": 0.603,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "S",
+    "position": 76,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.44,
+    "backbone_dynamics": 0.618,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "D",
+    "position": 77,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.445,
+    "backbone_dynamics": 0.618,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "S",
+    "position": 78,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.447,
+    "backbone_dynamics": 0.588,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "R",
+    "position": 79,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.446,
+    "backbone_dynamics": 0.574,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 80,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.436,
+    "backbone_dynamics": 0.57,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "K",
+    "position": 81,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.44,
+    "backbone_dynamics": 0.595,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 82,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.439,
+    "backbone_dynamics": 0.618,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "S",
+    "position": 83,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.454,
+    "backbone_dynamics": 0.649,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "F",
+    "position": 84,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.47,
+    "backbone_dynamics": 0.668,
+    "early_folding": 0.028
+  },
+  {
+    "residue": "F",
+    "position": 85,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.482,
+    "backbone_dynamics": 0.67,
+    "early_folding": 0.029
+  },
+  {
+    "residue": "S",
+    "position": 86,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.479,
+    "backbone_dynamics": 0.665,
+    "early_folding": 0.02
+  },
+  {
+    "residue": "D",
+    "position": 87,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.476,
+    "backbone_dynamics": 0.641,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "R",
+    "position": 88,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.466,
+    "backbone_dynamics": 0.597,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 89,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.468,
+    "backbone_dynamics": 0.568,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "S",
+    "position": 90,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.48,
+    "backbone_dynamics": 0.546,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "G",
+    "position": 91,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.487,
+    "backbone_dynamics": 0.544,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "S",
+    "position": 92,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.496,
+    "backbone_dynamics": 0.569,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "R",
+    "position": 93,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.498,
+    "backbone_dynamics": 0.581,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "G",
+    "position": 94,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.504,
+    "backbone_dynamics": 0.611,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "R",
+    "position": 95,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.514,
+    "backbone_dynamics": 0.634,
+    "early_folding": 0.017
+  },
+  {
+    "residue": "F",
+    "position": 96,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.516,
+    "backbone_dynamics": 0.675,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "D",
+    "position": 97,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.519,
+    "backbone_dynamics": 0.702,
+    "early_folding": 0.016
+  },
+  {
+    "residue": "D",
+    "position": 98,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.515,
+    "backbone_dynamics": 0.697,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "R",
+    "position": 99,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.516,
+    "backbone_dynamics": 0.659,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "G",
+    "position": 100,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.518,
+    "backbone_dynamics": 0.633,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "R",
+    "position": 101,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.524,
+    "backbone_dynamics": 0.636,
+    "early_folding": 0.008
+  },
+  {
+    "residue": "S",
+    "position": 102,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.524,
+    "backbone_dynamics": 0.664,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "D",
+    "position": 103,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.52,
+    "backbone_dynamics": 0.711,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "Y",
+    "position": 104,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.513,
+    "backbone_dynamics": 0.711,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "D",
+    "position": 105,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.514,
+    "backbone_dynamics": 0.701,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "G",
+    "position": 106,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.507,
+    "backbone_dynamics": 0.669,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "I",
+    "position": 107,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.512,
+    "backbone_dynamics": 0.644,
+    "early_folding": 0.025
+  },
+  {
+    "residue": "G",
+    "position": 108,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.51,
+    "backbone_dynamics": 0.628,
+    "early_folding": 0.023
+  },
+  {
+    "residue": "S",
+    "position": 109,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.512,
+    "backbone_dynamics": 0.634,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "R",
+    "position": 110,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.508,
+    "backbone_dynamics": 0.624,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "G",
+    "position": 111,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.502,
+    "backbone_dynamics": 0.636,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "D",
+    "position": 112,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.499,
+    "backbone_dynamics": 0.656,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "R",
+    "position": 113,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.493,
+    "backbone_dynamics": 0.657,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 114,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.494,
+    "backbone_dynamics": 0.656,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "G",
+    "position": 115,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.494,
+    "backbone_dynamics": 0.639,
+    "early_folding": 0.014
+  },
+  {
+    "residue": "F",
+    "position": 116,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.488,
+    "backbone_dynamics": 0.651,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "G",
+    "position": 117,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.49,
+    "backbone_dynamics": 0.653,
+    "early_folding": 0.038
+  },
+  {
+    "residue": "K",
+    "position": 118,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.49,
+    "backbone_dynamics": 0.682,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "F",
+    "position": 119,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.485,
+    "backbone_dynamics": 0.683,
+    "early_folding": 0.038
+  },
+  {
+    "residue": "E",
+    "position": 120,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.483,
+    "backbone_dynamics": 0.669,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "R",
+    "position": 121,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.471,
+    "backbone_dynamics": 0.634,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "G",
+    "position": 122,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.462,
+    "backbone_dynamics": 0.589,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "G",
+    "position": 123,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.461,
+    "backbone_dynamics": 0.576,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "N",
+    "position": 124,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.456,
+    "backbone_dynamics": 0.59,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 125,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.452,
+    "backbone_dynamics": 0.629,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "R",
+    "position": 126,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.456,
+    "backbone_dynamics": 0.67,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "W",
+    "position": 127,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.457,
+    "backbone_dynamics": 0.718,
+    "early_folding": 0.046
+  },
+  {
+    "residue": "C",
+    "position": 128,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.459,
+    "backbone_dynamics": 0.755,
+    "early_folding": 0.102
+  },
+  {
+    "residue": "D",
+    "position": 129,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.459,
+    "backbone_dynamics": 0.751,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "K",
+    "position": 130,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.456,
+    "backbone_dynamics": 0.723,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "S",
+    "position": 131,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.453,
+    "backbone_dynamics": 0.702,
+    "early_folding": 0.017
+  },
+  {
+    "residue": "D",
+    "position": 132,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.453,
+    "backbone_dynamics": 0.705,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "E",
+    "position": 133,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.442,
+    "backbone_dynamics": 0.724,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "D",
+    "position": 134,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.429,
+    "backbone_dynamics": 0.742,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "D",
+    "position": 135,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.417,
+    "backbone_dynamics": 0.747,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "W",
+    "position": 136,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.41,
+    "backbone_dynamics": 0.731,
+    "early_folding": 0.024
+  },
+  {
+    "residue": "S",
+    "position": 137,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.393,
+    "backbone_dynamics": 0.705,
+    "early_folding": 0.028
+  },
+  {
+    "residue": "K",
+    "position": 138,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.385,
+    "backbone_dynamics": 0.699,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "P",
+    "position": 139,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.367,
+    "backbone_dynamics": 0.686,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "L",
+    "position": 140,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.335,
+    "backbone_dynamics": 0.685,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "P",
+    "position": 141,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.328,
+    "backbone_dynamics": 0.681,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "P",
+    "position": 142,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.355,
+    "backbone_dynamics": 0.675,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "S",
+    "position": 143,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.364,
+    "backbone_dynamics": 0.691,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "E",
+    "position": 144,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.373,
+    "backbone_dynamics": 0.71,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "R",
+    "position": 145,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.34,
+    "backbone_dynamics": 0.734,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "L",
+    "position": 146,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.293,
+    "backbone_dynamics": 0.752,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "E",
+    "position": 147,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.251,
+    "backbone_dynamics": 0.779,
+    "early_folding": 0.039
+  },
+  {
+    "residue": "Q",
+    "position": 148,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.22,
+    "backbone_dynamics": 0.771,
+    "early_folding": 0.052
+  },
+  {
+    "residue": "E",
+    "position": 149,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.214,
+    "backbone_dynamics": 0.758,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "L",
+    "position": 150,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.263,
+    "backbone_dynamics": 0.74,
+    "early_folding": 0.065
+  },
+  {
+    "residue": "F",
+    "position": 151,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.294,
+    "backbone_dynamics": 0.702,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "S",
+    "position": 152,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.308,
+    "backbone_dynamics": 0.652,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "G",
+    "position": 153,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.324,
+    "backbone_dynamics": 0.614,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "G",
+    "position": 154,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.334,
+    "backbone_dynamics": 0.586,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "N",
+    "position": 155,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.342,
+    "backbone_dynamics": 0.604,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "T",
+    "position": 156,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.341,
+    "backbone_dynamics": 0.631,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "G",
+    "position": 157,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.333,
+    "backbone_dynamics": 0.659,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "I",
+    "position": 158,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.314,
+    "backbone_dynamics": 0.695,
+    "early_folding": 0.02
+  },
+  {
+    "residue": "N",
+    "position": 159,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.299,
+    "backbone_dynamics": 0.725,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "F",
+    "position": 160,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.279,
+    "backbone_dynamics": 0.761,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "E",
+    "position": 161,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.276,
+    "backbone_dynamics": 0.782,
+    "early_folding": 0.035
+  },
+  {
+    "residue": "K",
+    "position": 162,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.264,
+    "backbone_dynamics": 0.802,
+    "early_folding": 0.029
+  },
+  {
+    "residue": "Y",
+    "position": 163,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.252,
+    "backbone_dynamics": 0.824,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "D",
+    "position": 164,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.241,
+    "backbone_dynamics": 0.846,
+    "early_folding": 0.031
+  },
+  {
+    "residue": "D",
+    "position": 165,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.236,
+    "backbone_dynamics": 0.84,
+    "early_folding": 0.023
+  },
+  {
+    "residue": "I",
+    "position": 166,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.237,
+    "backbone_dynamics": 0.822,
+    "early_folding": 0.071
+  },
+  {
+    "residue": "P",
+    "position": 167,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.241,
+    "backbone_dynamics": 0.804,
+    "early_folding": 0.116
+  },
+  {
+    "residue": "V",
+    "position": 168,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.246,
+    "backbone_dynamics": 0.798,
+    "early_folding": 0.092
+  },
+  {
+    "residue": "E",
+    "position": 169,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.243,
+    "backbone_dynamics": 0.771,
+    "early_folding": 0.043
+  },
+  {
+    "residue": "A",
+    "position": 170,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.243,
+    "backbone_dynamics": 0.739,
+    "early_folding": 0.041
+  },
+  {
+    "residue": "T",
+    "position": 171,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.248,
+    "backbone_dynamics": 0.693,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "G",
+    "position": 172,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.256,
+    "backbone_dynamics": 0.651,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "N",
+    "position": 173,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.257,
+    "backbone_dynamics": 0.647,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "N",
+    "position": 174,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.263,
+    "backbone_dynamics": 0.66,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "C",
+    "position": 175,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.263,
+    "backbone_dynamics": 0.706,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "P",
+    "position": 176,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.26,
+    "backbone_dynamics": 0.72,
+    "early_folding": 0.035
+  },
+  {
+    "residue": "P",
+    "position": 177,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.255,
+    "backbone_dynamics": 0.732,
+    "early_folding": 0.025
+  },
+  {
+    "residue": "H",
+    "position": 178,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.24,
+    "backbone_dynamics": 0.76,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "I",
+    "position": 179,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.222,
+    "backbone_dynamics": 0.775,
+    "early_folding": 0.051
+  },
+  {
+    "residue": "E",
+    "position": 180,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.21,
+    "backbone_dynamics": 0.788,
+    "early_folding": 0.038
+  },
+  {
+    "residue": "S",
+    "position": 181,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.206,
+    "backbone_dynamics": 0.79,
+    "early_folding": 0.04
+  },
+  {
+    "residue": "F",
+    "position": 182,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.197,
+    "backbone_dynamics": 0.802,
+    "early_folding": 0.049
+  },
+  {
+    "residue": "S",
+    "position": 183,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.194,
+    "backbone_dynamics": 0.804,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "D",
+    "position": 184,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.188,
+    "backbone_dynamics": 0.812,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "V",
+    "position": 185,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.175,
+    "backbone_dynamics": 0.81,
+    "early_folding": 0.028
+  },
+  {
+    "residue": "E",
+    "position": 186,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.164,
+    "backbone_dynamics": 0.806,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "M",
+    "position": 187,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.149,
+    "backbone_dynamics": 0.792,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "G",
+    "position": 188,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.138,
+    "backbone_dynamics": 0.794,
+    "early_folding": 0.063
+  },
+  {
+    "residue": "E",
+    "position": 189,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.127,
+    "backbone_dynamics": 0.804,
+    "early_folding": 0.066
+  },
+  {
+    "residue": "I",
+    "position": 190,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.119,
+    "backbone_dynamics": 0.825,
+    "early_folding": 0.105
+  },
+  {
+    "residue": "I",
+    "position": 191,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.112,
+    "backbone_dynamics": 0.824,
+    "early_folding": 0.108
+  },
+  {
+    "residue": "M",
+    "position": 192,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.103,
+    "backbone_dynamics": 0.806,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "G",
+    "position": 193,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.094,
+    "backbone_dynamics": 0.792,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "N",
+    "position": 194,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.081,
+    "backbone_dynamics": 0.793,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "I",
+    "position": 195,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.073,
+    "backbone_dynamics": 0.807,
+    "early_folding": 0.049
+  },
+  {
+    "residue": "E",
+    "position": 196,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.069,
+    "backbone_dynamics": 0.823,
+    "early_folding": 0.041
+  },
+  {
+    "residue": "L",
+    "position": 197,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.065,
+    "backbone_dynamics": 0.833,
+    "early_folding": 0.102
+  },
+  {
+    "residue": "T",
+    "position": 198,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.067,
+    "backbone_dynamics": 0.839,
+    "early_folding": 0.164
+  },
+  {
+    "residue": "R",
+    "position": 199,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.073,
+    "backbone_dynamics": 0.838,
+    "early_folding": 0.068
+  },
+  {
+    "residue": "Y",
+    "position": 200,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.076,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.063
+  },
+  {
+    "residue": "T",
+    "position": 201,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.083,
+    "backbone_dynamics": 0.807,
+    "early_folding": 0.063
+  },
+  {
+    "residue": "R",
+    "position": 202,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.094,
+    "backbone_dynamics": 0.789,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "P",
+    "position": 203,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.102,
+    "backbone_dynamics": 0.767,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "T",
+    "position": 204,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.108,
+    "backbone_dynamics": 0.763,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "P",
+    "position": 205,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.106,
+    "backbone_dynamics": 0.748,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "V",
+    "position": 206,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.109,
+    "backbone_dynamics": 0.764,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "Q",
+    "position": 207,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.104,
+    "backbone_dynamics": 0.781,
+    "early_folding": 0.014
+  },
+  {
+    "residue": "K",
+    "position": 208,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.098,
+    "backbone_dynamics": 0.798,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "H",
+    "position": 209,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.09,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.042
+  },
+  {
+    "residue": "A",
+    "position": 210,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.085,
+    "backbone_dynamics": 0.856,
+    "early_folding": 0.083
+  },
+  {
+    "residue": "I",
+    "position": 211,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.08,
+    "backbone_dynamics": 0.861,
+    "early_folding": 0.111
+  },
+  {
+    "residue": "P",
+    "position": 212,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.082,
+    "backbone_dynamics": 0.864,
+    "early_folding": 0.106
+  },
+  {
+    "residue": "I",
+    "position": 213,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.089,
+    "backbone_dynamics": 0.878,
+    "early_folding": 0.138
+  },
+  {
+    "residue": "I",
+    "position": 214,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.095,
+    "backbone_dynamics": 0.879,
+    "early_folding": 0.146
+  },
+  {
+    "residue": "K",
+    "position": 215,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.091,
+    "backbone_dynamics": 0.879,
+    "early_folding": 0.121
+  },
+  {
+    "residue": "E",
+    "position": 216,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.09,
+    "backbone_dynamics": 0.859,
+    "early_folding": 0.078
+  },
+  {
+    "residue": "K",
+    "position": 217,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.097,
+    "backbone_dynamics": 0.857,
+    "early_folding": 0.069
+  },
+  {
+    "residue": "R",
+    "position": 218,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.091,
+    "backbone_dynamics": 0.872,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "D",
+    "position": 219,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.082,
+    "backbone_dynamics": 0.874,
+    "early_folding": 0.059
+  },
+  {
+    "residue": "L",
+    "position": 220,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.084,
+    "backbone_dynamics": 0.856,
+    "early_folding": 0.093
+  },
+  {
+    "residue": "M",
+    "position": 221,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.083,
+    "backbone_dynamics": 0.848,
+    "early_folding": 0.14
+  },
+  {
+    "residue": "A",
+    "position": 222,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.086,
+    "backbone_dynamics": 0.843,
+    "early_folding": 0.159
+  },
+  {
+    "residue": "C",
+    "position": 223,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.092,
+    "backbone_dynamics": 0.833,
+    "early_folding": 0.183
+  },
+  {
+    "residue": "A",
+    "position": 224,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.097,
+    "backbone_dynamics": 0.805,
+    "early_folding": 0.119
+  },
+  {
+    "residue": "Q",
+    "position": 225,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.104,
+    "backbone_dynamics": 0.783,
+    "early_folding": 0.039
+  },
+  {
+    "residue": "T",
+    "position": 226,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.107,
+    "backbone_dynamics": 0.738,
+    "early_folding": 0.02
+  },
+  {
+    "residue": "G",
+    "position": 227,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.108,
+    "backbone_dynamics": 0.698,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "S",
+    "position": 228,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.102,
+    "backbone_dynamics": 0.696,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "G",
+    "position": 229,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.099,
+    "backbone_dynamics": 0.709,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "K",
+    "position": 230,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.1,
+    "backbone_dynamics": 0.745,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "T",
+    "position": 231,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.092,
+    "backbone_dynamics": 0.784,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "A",
+    "position": 232,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.086,
+    "backbone_dynamics": 0.815,
+    "early_folding": 0.029
+  },
+  {
+    "residue": "A",
+    "position": 233,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.081,
+    "backbone_dynamics": 0.845,
+    "early_folding": 0.065
+  },
+  {
+    "residue": "F",
+    "position": 234,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.067,
+    "backbone_dynamics": 0.866,
+    "early_folding": 0.142
+  },
+  {
+    "residue": "L",
+    "position": 235,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.055,
+    "backbone_dynamics": 0.884,
+    "early_folding": 0.194
+  },
+  {
+    "residue": "L",
+    "position": 236,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.048,
+    "backbone_dynamics": 0.896,
+    "early_folding": 0.216
+  },
+  {
+    "residue": "P",
+    "position": 237,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.045,
+    "backbone_dynamics": 0.885,
+    "early_folding": 0.141
+  },
+  {
+    "residue": "I",
+    "position": 238,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.043,
+    "backbone_dynamics": 0.872,
+    "early_folding": 0.11
+  },
+  {
+    "residue": "L",
+    "position": 239,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.042,
+    "backbone_dynamics": 0.853,
+    "early_folding": 0.12
+  },
+  {
+    "residue": "S",
+    "position": 240,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.043,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.132
+  },
+  {
+    "residue": "Q",
+    "position": 241,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.049,
+    "backbone_dynamics": 0.818,
+    "early_folding": 0.099
+  },
+  {
+    "residue": "I",
+    "position": 242,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.053,
+    "backbone_dynamics": 0.797,
+    "early_folding": 0.103
+  },
+  {
+    "residue": "Y",
+    "position": 243,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.061,
+    "backbone_dynamics": 0.773,
+    "early_folding": 0.075
+  },
+  {
+    "residue": "S",
+    "position": 244,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.068,
+    "backbone_dynamics": 0.752,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "D",
+    "position": 245,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.072,
+    "backbone_dynamics": 0.718,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "G",
+    "position": 246,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.074,
+    "backbone_dynamics": 0.691,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "P",
+    "position": 247,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.076,
+    "backbone_dynamics": 0.678,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "G",
+    "position": 248,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.076,
+    "backbone_dynamics": 0.695,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "E",
+    "position": 249,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.083,
+    "backbone_dynamics": 0.718,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "A",
+    "position": 250,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.078,
+    "backbone_dynamics": 0.754,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "L",
+    "position": 251,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.074,
+    "backbone_dynamics": 0.779,
+    "early_folding": 0.056
+  },
+  {
+    "residue": "R",
+    "position": 252,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.065,
+    "backbone_dynamics": 0.784,
+    "early_folding": 0.045
+  },
+  {
+    "residue": "A",
+    "position": 253,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.06,
+    "backbone_dynamics": 0.776,
+    "early_folding": 0.068
+  },
+  {
+    "residue": "M",
+    "position": 254,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.064,
+    "backbone_dynamics": 0.774,
+    "early_folding": 0.077
+  },
+  {
+    "residue": "K",
+    "position": 255,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.076,
+    "backbone_dynamics": 0.755,
+    "early_folding": 0.048
+  },
+  {
+    "residue": "E",
+    "position": 256,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.078,
+    "backbone_dynamics": 0.736,
+    "early_folding": 0.02
+  },
+  {
+    "residue": "N",
+    "position": 257,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.082,
+    "backbone_dynamics": 0.707,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "G",
+    "position": 258,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.095,
+    "backbone_dynamics": 0.7,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "R",
+    "position": 259,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.111,
+    "backbone_dynamics": 0.708,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "Y",
+    "position": 260,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.119,
+    "backbone_dynamics": 0.706,
+    "early_folding": 0.017
+  },
+  {
+    "residue": "G",
+    "position": 261,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.122,
+    "backbone_dynamics": 0.716,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "R",
+    "position": 262,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.118,
+    "backbone_dynamics": 0.732,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "R",
+    "position": 263,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.109,
+    "backbone_dynamics": 0.752,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "K",
+    "position": 264,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.102,
+    "backbone_dynamics": 0.77,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "Q",
+    "position": 265,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.091,
+    "backbone_dynamics": 0.786,
+    "early_folding": 0.025
+  },
+  {
+    "residue": "Y",
+    "position": 266,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.08,
+    "backbone_dynamics": 0.828,
+    "early_folding": 0.044
+  },
+  {
+    "residue": "P",
+    "position": 267,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.07,
+    "backbone_dynamics": 0.84,
+    "early_folding": 0.056
+  },
+  {
+    "residue": "I",
+    "position": 268,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.06,
+    "backbone_dynamics": 0.843,
+    "early_folding": 0.067
+  },
+  {
+    "residue": "S",
+    "position": 269,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.053,
+    "backbone_dynamics": 0.828,
+    "early_folding": 0.075
+  },
+  {
+    "residue": "L",
+    "position": 270,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.048,
+    "backbone_dynamics": 0.825,
+    "early_folding": 0.108
+  },
+  {
+    "residue": "V",
+    "position": 271,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.045,
+    "backbone_dynamics": 0.834,
+    "early_folding": 0.102
+  },
+  {
+    "residue": "L",
+    "position": 272,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.04,
+    "backbone_dynamics": 0.823,
+    "early_folding": 0.064
+  },
+  {
+    "residue": "A",
+    "position": 273,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.039,
+    "backbone_dynamics": 0.836,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "P",
+    "position": 274,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.035,
+    "backbone_dynamics": 0.828,
+    "early_folding": 0.02
+  },
+  {
+    "residue": "T",
+    "position": 275,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.852,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "R",
+    "position": 276,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.869,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "E",
+    "position": 277,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.884,
+    "early_folding": 0.058
+  },
+  {
+    "residue": "L",
+    "position": 278,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.895,
+    "early_folding": 0.136
+  },
+  {
+    "residue": "A",
+    "position": 279,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.903,
+    "early_folding": 0.237
+  },
+  {
+    "residue": "V",
+    "position": 280,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.029,
+    "backbone_dynamics": 0.906,
+    "early_folding": 0.276
+  },
+  {
+    "residue": "Q",
+    "position": 281,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.91,
+    "early_folding": 0.247
+  },
+  {
+    "residue": "I",
+    "position": 282,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.026,
+    "backbone_dynamics": 0.927,
+    "early_folding": 0.26
+  },
+  {
+    "residue": "Y",
+    "position": 283,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.026,
+    "backbone_dynamics": 0.929,
+    "early_folding": 0.231
+  },
+  {
+    "residue": "E",
+    "position": 284,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.913,
+    "early_folding": 0.133
+  },
+  {
+    "residue": "E",
+    "position": 285,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.029,
+    "backbone_dynamics": 0.898,
+    "early_folding": 0.137
+  },
+  {
+    "residue": "A",
+    "position": 286,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.866,
+    "early_folding": 0.19
+  },
+  {
+    "residue": "R",
+    "position": 287,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.844,
+    "early_folding": 0.133
+  },
+  {
+    "residue": "K",
+    "position": 288,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.032,
+    "backbone_dynamics": 0.838,
+    "early_folding": 0.096
+  },
+  {
+    "residue": "F",
+    "position": 289,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.035,
+    "backbone_dynamics": 0.832,
+    "early_folding": 0.104
+  },
+  {
+    "residue": "S",
+    "position": 290,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.037,
+    "backbone_dynamics": 0.825,
+    "early_folding": 0.124
+  },
+  {
+    "residue": "Y",
+    "position": 291,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.042,
+    "backbone_dynamics": 0.833,
+    "early_folding": 0.101
+  },
+  {
+    "residue": "R",
+    "position": 292,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.046,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.058
+  },
+  {
+    "residue": "S",
+    "position": 293,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.048,
+    "backbone_dynamics": 0.824,
+    "early_folding": 0.06
+  },
+  {
+    "residue": "R",
+    "position": 294,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.045,
+    "backbone_dynamics": 0.823,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "V",
+    "position": 295,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.037,
+    "backbone_dynamics": 0.833,
+    "early_folding": 0.08
+  },
+  {
+    "residue": "R",
+    "position": 296,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.856,
+    "early_folding": 0.11
+  },
+  {
+    "residue": "P",
+    "position": 297,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.868,
+    "early_folding": 0.136
+  },
+  {
+    "residue": "C",
+    "position": 298,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.876,
+    "early_folding": 0.304
+  },
+  {
+    "residue": "V",
+    "position": 299,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.863,
+    "early_folding": 0.259
+  },
+  {
+    "residue": "V",
+    "position": 300,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.845,
+    "early_folding": 0.129
+  },
+  {
+    "residue": "Y",
+    "position": 301,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.803,
+    "early_folding": 0.057
+  },
+  {
+    "residue": "G",
+    "position": 302,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.768,
+    "early_folding": 0.029
+  },
+  {
+    "residue": "G",
+    "position": 303,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.765,
+    "early_folding": 0.022
+  },
+  {
+    "residue": "A",
+    "position": 304,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.776,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "D",
+    "position": 305,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.029,
+    "backbone_dynamics": 0.801,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "I",
+    "position": 306,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.8,
+    "early_folding": 0.02
+  },
+  {
+    "residue": "G",
+    "position": 307,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.805,
+    "early_folding": 0.04
+  },
+  {
+    "residue": "Q",
+    "position": 308,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.802,
+    "early_folding": 0.045
+  },
+  {
+    "residue": "Q",
+    "position": 309,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.035,
+    "backbone_dynamics": 0.82,
+    "early_folding": 0.067
+  },
+  {
+    "residue": "I",
+    "position": 310,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.032,
+    "backbone_dynamics": 0.851,
+    "early_folding": 0.097
+  },
+  {
+    "residue": "R",
+    "position": 311,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.869,
+    "early_folding": 0.07
+  },
+  {
+    "residue": "D",
+    "position": 312,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.878,
+    "early_folding": 0.07
+  },
+  {
+    "residue": "L",
+    "position": 313,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.032,
+    "backbone_dynamics": 0.856,
+    "early_folding": 0.083
+  },
+  {
+    "residue": "E",
+    "position": 314,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.83,
+    "early_folding": 0.039
+  },
+  {
+    "residue": "R",
+    "position": 315,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.024,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "G",
+    "position": 316,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.84,
+    "early_folding": 0.049
+  },
+  {
+    "residue": "C",
+    "position": 317,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 0.867,
+    "early_folding": 0.098
+  },
+  {
+    "residue": "H",
+    "position": 318,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 0.888,
+    "early_folding": 0.135
+  },
+  {
+    "residue": "L",
+    "position": 319,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.019,
+    "backbone_dynamics": 0.891,
+    "early_folding": 0.228
+  },
+  {
+    "residue": "L",
+    "position": 320,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 0.884,
+    "early_folding": 0.349
+  },
+  {
+    "residue": "V",
+    "position": 321,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.879,
+    "early_folding": 0.279
+  },
+  {
+    "residue": "A",
+    "position": 322,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.022,
+    "backbone_dynamics": 0.865,
+    "early_folding": 0.125
+  },
+  {
+    "residue": "T",
+    "position": 323,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.024,
+    "backbone_dynamics": 0.854,
+    "early_folding": 0.05
+  },
+  {
+    "residue": "P",
+    "position": 324,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.829,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "G",
+    "position": 325,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.806,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "R",
+    "position": 326,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.81,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "L",
+    "position": 327,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.842,
+    "early_folding": 0.052
+  },
+  {
+    "residue": "V",
+    "position": 328,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.869,
+    "early_folding": 0.085
+  },
+  {
+    "residue": "D",
+    "position": 329,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.862,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "M",
+    "position": 330,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.857,
+    "early_folding": 0.092
+  },
+  {
+    "residue": "M",
+    "position": 331,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.032,
+    "backbone_dynamics": 0.845,
+    "early_folding": 0.105
+  },
+  {
+    "residue": "E",
+    "position": 332,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.07
+  },
+  {
+    "residue": "R",
+    "position": 333,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.037,
+    "backbone_dynamics": 0.813,
+    "early_folding": 0.058
+  },
+  {
+    "residue": "G",
+    "position": 334,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.037,
+    "backbone_dynamics": 0.81,
+    "early_folding": 0.06
+  },
+  {
+    "residue": "K",
+    "position": 335,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.038,
+    "backbone_dynamics": 0.818,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "I",
+    "position": 336,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.821,
+    "early_folding": 0.049
+  },
+  {
+    "residue": "G",
+    "position": 337,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.84,
+    "early_folding": 0.059
+  },
+  {
+    "residue": "L",
+    "position": 338,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.873,
+    "early_folding": 0.057
+  },
+  {
+    "residue": "D",
+    "position": 339,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.921,
+    "early_folding": 0.06
+  },
+  {
+    "residue": "F",
+    "position": 340,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.954,
+    "early_folding": 0.16
+  },
+  {
+    "residue": "C",
+    "position": 341,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.978,
+    "early_folding": 0.263
+  },
+  {
+    "residue": "K",
+    "position": 342,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.022,
+    "backbone_dynamics": 0.975,
+    "early_folding": 0.2
+  },
+  {
+    "residue": "Y",
+    "position": 343,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.959,
+    "early_folding": 0.266
+  },
+  {
+    "residue": "L",
+    "position": 344,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.022,
+    "backbone_dynamics": 0.957,
+    "early_folding": 0.345
+  },
+  {
+    "residue": "V",
+    "position": 345,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.023,
+    "backbone_dynamics": 0.957,
+    "early_folding": 0.31
+  },
+  {
+    "residue": "L",
+    "position": 346,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.024,
+    "backbone_dynamics": 0.948,
+    "early_folding": 0.269
+  },
+  {
+    "residue": "D",
+    "position": 347,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.026,
+    "backbone_dynamics": 0.927,
+    "early_folding": 0.126
+  },
+  {
+    "residue": "E",
+    "position": 348,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.907,
+    "early_folding": 0.099
+  },
+  {
+    "residue": "A",
+    "position": 349,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.885,
+    "early_folding": 0.159
+  },
+  {
+    "residue": "D",
+    "position": 350,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.878,
+    "early_folding": 0.136
+  },
+  {
+    "residue": "R",
+    "position": 351,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.854,
+    "early_folding": 0.126
+  },
+  {
+    "residue": "M",
+    "position": 352,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.853,
+    "early_folding": 0.196
+  },
+  {
+    "residue": "L",
+    "position": 353,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.041,
+    "backbone_dynamics": 0.836,
+    "early_folding": 0.196
+  },
+  {
+    "residue": "D",
+    "position": 354,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.046,
+    "backbone_dynamics": 0.821,
+    "early_folding": 0.064
+  },
+  {
+    "residue": "M",
+    "position": 355,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.05,
+    "backbone_dynamics": 0.796,
+    "early_folding": 0.035
+  },
+  {
+    "residue": "G",
+    "position": 356,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.048,
+    "backbone_dynamics": 0.792,
+    "early_folding": 0.047
+  },
+  {
+    "residue": "F",
+    "position": 357,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.049,
+    "backbone_dynamics": 0.803,
+    "early_folding": 0.05
+  },
+  {
+    "residue": "E",
+    "position": 358,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.05,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.031
+  },
+  {
+    "residue": "P",
+    "position": 359,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.05,
+    "backbone_dynamics": 0.836,
+    "early_folding": 0.037
+  },
+  {
+    "residue": "Q",
+    "position": 360,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.05,
+    "backbone_dynamics": 0.849,
+    "early_folding": 0.067
+  },
+  {
+    "residue": "I",
+    "position": 361,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.047,
+    "backbone_dynamics": 0.852,
+    "early_folding": 0.132
+  },
+  {
+    "residue": "R",
+    "position": 362,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.046,
+    "backbone_dynamics": 0.842,
+    "early_folding": 0.138
+  },
+  {
+    "residue": "R",
+    "position": 363,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.044,
+    "backbone_dynamics": 0.834,
+    "early_folding": 0.101
+  },
+  {
+    "residue": "I",
+    "position": 364,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.051,
+    "backbone_dynamics": 0.822,
+    "early_folding": 0.178
+  },
+  {
+    "residue": "V",
+    "position": 365,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.06,
+    "backbone_dynamics": 0.809,
+    "early_folding": 0.133
+  },
+  {
+    "residue": "E",
+    "position": 366,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.064,
+    "backbone_dynamics": 0.799,
+    "early_folding": 0.052
+  },
+  {
+    "residue": "Q",
+    "position": 367,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.071,
+    "backbone_dynamics": 0.769,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "D",
+    "position": 368,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.086,
+    "backbone_dynamics": 0.746,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "T",
+    "position": 369,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.105,
+    "backbone_dynamics": 0.711,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "M",
+    "position": 370,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.118,
+    "backbone_dynamics": 0.681,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "P",
+    "position": 371,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.123,
+    "backbone_dynamics": 0.66,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "P",
+    "position": 372,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.117,
+    "backbone_dynamics": 0.65,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "K",
+    "position": 373,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.106,
+    "backbone_dynamics": 0.655,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 374,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.095,
+    "backbone_dynamics": 0.676,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "V",
+    "position": 375,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.077,
+    "backbone_dynamics": 0.726,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "R",
+    "position": 376,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.066,
+    "backbone_dynamics": 0.768,
+    "early_folding": 0.024
+  },
+  {
+    "residue": "H",
+    "position": 377,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.057,
+    "backbone_dynamics": 0.806,
+    "early_folding": 0.045
+  },
+  {
+    "residue": "T",
+    "position": 378,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.049,
+    "backbone_dynamics": 0.813,
+    "early_folding": 0.072
+  },
+  {
+    "residue": "M",
+    "position": 379,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.042,
+    "backbone_dynamics": 0.813,
+    "early_folding": 0.065
+  },
+  {
+    "residue": "M",
+    "position": 380,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.039,
+    "backbone_dynamics": 0.82,
+    "early_folding": 0.063
+  },
+  {
+    "residue": "F",
+    "position": 381,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.035,
+    "backbone_dynamics": 0.823,
+    "early_folding": 0.079
+  },
+  {
+    "residue": "S",
+    "position": 382,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.815,
+    "early_folding": 0.05
+  },
+  {
+    "residue": "A",
+    "position": 383,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.814,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "T",
+    "position": 384,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.831,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "F",
+    "position": 385,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.853,
+    "early_folding": 0.041
+  },
+  {
+    "residue": "P",
+    "position": 386,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.867,
+    "early_folding": 0.053
+  },
+  {
+    "residue": "K",
+    "position": 387,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.029,
+    "backbone_dynamics": 0.875,
+    "early_folding": 0.048
+  },
+  {
+    "residue": "E",
+    "position": 388,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.884,
+    "early_folding": 0.083
+  },
+  {
+    "residue": "I",
+    "position": 389,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.897,
+    "early_folding": 0.182
+  },
+  {
+    "residue": "Q",
+    "position": 390,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.903,
+    "early_folding": 0.211
+  },
+  {
+    "residue": "M",
+    "position": 391,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.891,
+    "early_folding": 0.237
+  },
+  {
+    "residue": "L",
+    "position": 392,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.026,
+    "backbone_dynamics": 0.887,
+    "early_folding": 0.318
+  },
+  {
+    "residue": "A",
+    "position": 393,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.902,
+    "early_folding": 0.331
+  },
+  {
+    "residue": "R",
+    "position": 394,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.922,
+    "early_folding": 0.181
+  },
+  {
+    "residue": "D",
+    "position": 395,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.024,
+    "backbone_dynamics": 0.937,
+    "early_folding": 0.107
+  },
+  {
+    "residue": "F",
+    "position": 396,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.023,
+    "backbone_dynamics": 0.946,
+    "early_folding": 0.166
+  },
+  {
+    "residue": "L",
+    "position": 397,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.023,
+    "backbone_dynamics": 0.968,
+    "early_folding": 0.233
+  },
+  {
+    "residue": "D",
+    "position": 398,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.022,
+    "backbone_dynamics": 0.994,
+    "early_folding": 0.2
+  },
+  {
+    "residue": "E",
+    "position": 399,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 1,
+    "early_folding": 0.302
+  },
+  {
+    "residue": "Y",
+    "position": 400,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 1.012,
+    "early_folding": 0.5
+  },
+  {
+    "residue": "I",
+    "position": 401,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 1.001,
+    "early_folding": 0.61
+  },
+  {
+    "residue": "F",
+    "position": 402,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.018,
+    "backbone_dynamics": 0.997,
+    "early_folding": 0.579
+  },
+  {
+    "residue": "L",
+    "position": 403,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.018,
+    "backbone_dynamics": 0.974,
+    "early_folding": 0.493
+  },
+  {
+    "residue": "A",
+    "position": 404,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 0.927,
+    "early_folding": 0.377
+  },
+  {
+    "residue": "V",
+    "position": 405,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.024,
+    "backbone_dynamics": 0.882,
+    "early_folding": 0.304
+  },
+  {
+    "residue": "G",
+    "position": 406,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.028,
+    "backbone_dynamics": 0.833,
+    "early_folding": 0.131
+  },
+  {
+    "residue": "R",
+    "position": 407,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.793,
+    "early_folding": 0.042
+  },
+  {
+    "residue": "V",
+    "position": 408,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.038,
+    "backbone_dynamics": 0.759,
+    "early_folding": 0.031
+  },
+  {
+    "residue": "G",
+    "position": 409,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.042,
+    "backbone_dynamics": 0.738,
+    "early_folding": 0.025
+  },
+  {
+    "residue": "S",
+    "position": 410,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.046,
+    "backbone_dynamics": 0.722,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "T",
+    "position": 411,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.045,
+    "backbone_dynamics": 0.73,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "S",
+    "position": 412,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.04,
+    "backbone_dynamics": 0.745,
+    "early_folding": 0.014
+  },
+  {
+    "residue": "E",
+    "position": 413,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.035,
+    "backbone_dynamics": 0.763,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "N",
+    "position": 414,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.796,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "I",
+    "position": 415,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.822,
+    "early_folding": 0.034
+  },
+  {
+    "residue": "T",
+    "position": 416,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.851,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "Q",
+    "position": 417,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.018,
+    "backbone_dynamics": 0.88,
+    "early_folding": 0.097
+  },
+  {
+    "residue": "K",
+    "position": 418,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.017,
+    "backbone_dynamics": 0.905,
+    "early_folding": 0.192
+  },
+  {
+    "residue": "V",
+    "position": 419,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.017,
+    "backbone_dynamics": 0.924,
+    "early_folding": 0.351
+  },
+  {
+    "residue": "V",
+    "position": 420,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.017,
+    "backbone_dynamics": 0.946,
+    "early_folding": 0.385
+  },
+  {
+    "residue": "W",
+    "position": 421,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.018,
+    "backbone_dynamics": 0.949,
+    "early_folding": 0.38
+  },
+  {
+    "residue": "V",
+    "position": 422,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.018,
+    "backbone_dynamics": 0.946,
+    "early_folding": 0.307
+  },
+  {
+    "residue": "E",
+    "position": 423,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.019,
+    "backbone_dynamics": 0.926,
+    "early_folding": 0.137
+  },
+  {
+    "residue": "E",
+    "position": 424,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 0.91,
+    "early_folding": 0.079
+  },
+  {
+    "residue": "S",
+    "position": 425,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.893,
+    "early_folding": 0.076
+  },
+  {
+    "residue": "D",
+    "position": 426,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.886,
+    "early_folding": 0.041
+  },
+  {
+    "residue": "K",
+    "position": 427,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.88,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "R",
+    "position": 428,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.022,
+    "backbone_dynamics": 0.892,
+    "early_folding": 0.071
+  },
+  {
+    "residue": "S",
+    "position": 429,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.022,
+    "backbone_dynamics": 0.899,
+    "early_folding": 0.176
+  },
+  {
+    "residue": "F",
+    "position": 430,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.906,
+    "early_folding": 0.303
+  },
+  {
+    "residue": "L",
+    "position": 431,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.026,
+    "backbone_dynamics": 0.922,
+    "early_folding": 0.379
+  },
+  {
+    "residue": "L",
+    "position": 432,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.93,
+    "early_folding": 0.402
+  },
+  {
+    "residue": "D",
+    "position": 433,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.918,
+    "early_folding": 0.316
+  },
+  {
+    "residue": "L",
+    "position": 434,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.882,
+    "early_folding": 0.288
+  },
+  {
+    "residue": "L",
+    "position": 435,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.024,
+    "backbone_dynamics": 0.853,
+    "early_folding": 0.198
+  },
+  {
+    "residue": "N",
+    "position": 436,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.025,
+    "backbone_dynamics": 0.817,
+    "early_folding": 0.067
+  },
+  {
+    "residue": "A",
+    "position": 437,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.032,
+    "backbone_dynamics": 0.793,
+    "early_folding": 0.04
+  },
+  {
+    "residue": "T",
+    "position": 438,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.035,
+    "backbone_dynamics": 0.781,
+    "early_folding": 0.034
+  },
+  {
+    "residue": "G",
+    "position": 439,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.784,
+    "early_folding": 0.023
+  },
+  {
+    "residue": "K",
+    "position": 440,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.029,
+    "backbone_dynamics": 0.796,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "D",
+    "position": 441,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.024,
+    "backbone_dynamics": 0.817,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "S",
+    "position": 442,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.837,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "L",
+    "position": 443,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 0.86,
+    "early_folding": 0.098
+  },
+  {
+    "residue": "T",
+    "position": 444,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.019,
+    "backbone_dynamics": 0.884,
+    "early_folding": 0.229
+  },
+  {
+    "residue": "L",
+    "position": 445,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.018,
+    "backbone_dynamics": 0.908,
+    "early_folding": 0.319
+  },
+  {
+    "residue": "V",
+    "position": 446,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.019,
+    "backbone_dynamics": 0.931,
+    "early_folding": 0.372
+  },
+  {
+    "residue": "F",
+    "position": 447,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.018,
+    "backbone_dynamics": 0.95,
+    "early_folding": 0.407
+  },
+  {
+    "residue": "V",
+    "position": 448,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.02,
+    "backbone_dynamics": 0.942,
+    "early_folding": 0.302
+  },
+  {
+    "residue": "E",
+    "position": 449,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.91,
+    "early_folding": 0.135
+  },
+  {
+    "residue": "T",
+    "position": 450,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.021,
+    "backbone_dynamics": 0.859,
+    "early_folding": 0.117
+  },
+  {
+    "residue": "K",
+    "position": 451,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.023,
+    "backbone_dynamics": 0.813,
+    "early_folding": 0.05
+  },
+  {
+    "residue": "K",
+    "position": 452,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.027,
+    "backbone_dynamics": 0.773,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "G",
+    "position": 453,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.75,
+    "early_folding": 0.017
+  },
+  {
+    "residue": "A",
+    "position": 454,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.759,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "D",
+    "position": 455,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.773,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "S",
+    "position": 456,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.776,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "L",
+    "position": 457,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.788,
+    "early_folding": 0.048
+  },
+  {
+    "residue": "E",
+    "position": 458,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.032,
+    "backbone_dynamics": 0.823,
+    "early_folding": 0.047
+  },
+  {
+    "residue": "D",
+    "position": 459,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.03,
+    "backbone_dynamics": 0.852,
+    "early_folding": 0.062
+  },
+  {
+    "residue": "F",
+    "position": 460,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.029,
+    "backbone_dynamics": 0.856,
+    "early_folding": 0.133
+  },
+  {
+    "residue": "L",
+    "position": 461,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.031,
+    "backbone_dynamics": 0.857,
+    "early_folding": 0.181
+  },
+  {
+    "residue": "Y",
+    "position": 462,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.859,
+    "early_folding": 0.144
+  },
+  {
+    "residue": "H",
+    "position": 463,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.849,
+    "early_folding": 0.086
+  },
+  {
+    "residue": "E",
+    "position": 464,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.824,
+    "early_folding": 0.04
+  },
+  {
+    "residue": "G",
+    "position": 465,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.033,
+    "backbone_dynamics": 0.794,
+    "early_folding": 0.035
+  },
+  {
+    "residue": "Y",
+    "position": 466,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.784,
+    "early_folding": 0.044
+  },
+  {
+    "residue": "A",
+    "position": 467,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.785,
+    "early_folding": 0.051
+  },
+  {
+    "residue": "C",
+    "position": 468,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.777,
+    "early_folding": 0.082
+  },
+  {
+    "residue": "T",
+    "position": 469,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.037,
+    "backbone_dynamics": 0.765,
+    "early_folding": 0.073
+  },
+  {
+    "residue": "S",
+    "position": 470,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.038,
+    "backbone_dynamics": 0.744,
+    "early_folding": 0.038
+  },
+  {
+    "residue": "I",
+    "position": 471,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.043,
+    "backbone_dynamics": 0.735,
+    "early_folding": 0.031
+  },
+  {
+    "residue": "H",
+    "position": 472,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.048,
+    "backbone_dynamics": 0.734,
+    "early_folding": 0.023
+  },
+  {
+    "residue": "G",
+    "position": 473,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.052,
+    "backbone_dynamics": 0.729,
+    "early_folding": 0.017
+  },
+  {
+    "residue": "D",
+    "position": 474,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.055,
+    "backbone_dynamics": 0.725,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "R",
+    "position": 475,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.056,
+    "backbone_dynamics": 0.712,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "S",
+    "position": 476,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.062,
+    "backbone_dynamics": 0.704,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "Q",
+    "position": 477,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.067,
+    "backbone_dynamics": 0.702,
+    "early_folding": 0.008
+  },
+  {
+    "residue": "R",
+    "position": 478,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.073,
+    "backbone_dynamics": 0.716,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "D",
+    "position": 479,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.08,
+    "backbone_dynamics": 0.745,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "R",
+    "position": 480,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.078,
+    "backbone_dynamics": 0.749,
+    "early_folding": 0.012
+  },
+  {
+    "residue": "E",
+    "position": 481,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.065,
+    "backbone_dynamics": 0.751,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "E",
+    "position": 482,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.057,
+    "backbone_dynamics": 0.755,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "A",
+    "position": 483,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.051,
+    "backbone_dynamics": 0.754,
+    "early_folding": 0.074
+  },
+  {
+    "residue": "L",
+    "position": 484,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.049,
+    "backbone_dynamics": 0.767,
+    "early_folding": 0.113
+  },
+  {
+    "residue": "H",
+    "position": 485,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.053,
+    "backbone_dynamics": 0.785,
+    "early_folding": 0.111
+  },
+  {
+    "residue": "Q",
+    "position": 486,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.059,
+    "backbone_dynamics": 0.781,
+    "early_folding": 0.081
+  },
+  {
+    "residue": "F",
+    "position": 487,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.06,
+    "backbone_dynamics": 0.765,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "R",
+    "position": 488,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.066,
+    "backbone_dynamics": 0.734,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "S",
+    "position": 489,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.068,
+    "backbone_dynamics": 0.702,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "G",
+    "position": 490,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.069,
+    "backbone_dynamics": 0.686,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "K",
+    "position": 491,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.062,
+    "backbone_dynamics": 0.698,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 492,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.059,
+    "backbone_dynamics": 0.719,
+    "early_folding": 0.008
+  },
+  {
+    "residue": "P",
+    "position": 493,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.053,
+    "backbone_dynamics": 0.753,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "I",
+    "position": 494,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.049,
+    "backbone_dynamics": 0.776,
+    "early_folding": 0.029
+  },
+  {
+    "residue": "L",
+    "position": 495,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.048,
+    "backbone_dynamics": 0.816,
+    "early_folding": 0.06
+  },
+  {
+    "residue": "V",
+    "position": 496,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.045,
+    "backbone_dynamics": 0.836,
+    "early_folding": 0.07
+  },
+  {
+    "residue": "A",
+    "position": 497,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.045,
+    "backbone_dynamics": 0.837,
+    "early_folding": 0.076
+  },
+  {
+    "residue": "T",
+    "position": 498,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.039,
+    "backbone_dynamics": 0.839,
+    "early_folding": 0.072
+  },
+  {
+    "residue": "A",
+    "position": 499,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.038,
+    "backbone_dynamics": 0.83,
+    "early_folding": 0.057
+  },
+  {
+    "residue": "V",
+    "position": 500,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.038,
+    "backbone_dynamics": 0.829,
+    "early_folding": 0.063
+  },
+  {
+    "residue": "A",
+    "position": 501,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.041,
+    "backbone_dynamics": 0.825,
+    "early_folding": 0.096
+  },
+  {
+    "residue": "A",
+    "position": 502,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.047,
+    "backbone_dynamics": 0.808,
+    "early_folding": 0.081
+  },
+  {
+    "residue": "R",
+    "position": 503,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.052,
+    "backbone_dynamics": 0.779,
+    "early_folding": 0.046
+  },
+  {
+    "residue": "G",
+    "position": 504,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.056,
+    "backbone_dynamics": 0.764,
+    "early_folding": 0.043
+  },
+  {
+    "residue": "L",
+    "position": 505,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.056,
+    "backbone_dynamics": 0.783,
+    "early_folding": 0.044
+  },
+  {
+    "residue": "D",
+    "position": 506,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.059,
+    "backbone_dynamics": 0.8,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "I",
+    "position": 507,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.059,
+    "backbone_dynamics": 0.803,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "S",
+    "position": 508,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.057,
+    "backbone_dynamics": 0.804,
+    "early_folding": 0.039
+  },
+  {
+    "residue": "N",
+    "position": 509,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.047,
+    "backbone_dynamics": 0.806,
+    "early_folding": 0.049
+  },
+  {
+    "residue": "V",
+    "position": 510,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.041,
+    "backbone_dynamics": 0.831,
+    "early_folding": 0.085
+  },
+  {
+    "residue": "K",
+    "position": 511,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.867,
+    "early_folding": 0.131
+  },
+  {
+    "residue": "H",
+    "position": 512,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.034,
+    "backbone_dynamics": 0.888,
+    "early_folding": 0.23
+  },
+  {
+    "residue": "V",
+    "position": 513,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.036,
+    "backbone_dynamics": 0.888,
+    "early_folding": 0.368
+  },
+  {
+    "residue": "I",
+    "position": 514,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.039,
+    "backbone_dynamics": 0.888,
+    "early_folding": 0.299
+  },
+  {
+    "residue": "N",
+    "position": 515,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.042,
+    "backbone_dynamics": 0.879,
+    "early_folding": 0.165
+  },
+  {
+    "residue": "F",
+    "position": 516,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.044,
+    "backbone_dynamics": 0.869,
+    "early_folding": 0.079
+  },
+  {
+    "residue": "D",
+    "position": 517,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.049,
+    "backbone_dynamics": 0.861,
+    "early_folding": 0.047
+  },
+  {
+    "residue": "L",
+    "position": 518,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.054,
+    "backbone_dynamics": 0.837,
+    "early_folding": 0.054
+  },
+  {
+    "residue": "P",
+    "position": 519,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.054,
+    "backbone_dynamics": 0.817,
+    "early_folding": 0.039
+  },
+  {
+    "residue": "S",
+    "position": 520,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.053,
+    "backbone_dynamics": 0.813,
+    "early_folding": 0.017
+  },
+  {
+    "residue": "D",
+    "position": 521,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.054,
+    "backbone_dynamics": 0.827,
+    "early_folding": 0.014
+  },
+  {
+    "residue": "I",
+    "position": 522,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.052,
+    "backbone_dynamics": 0.834,
+    "early_folding": 0.034
+  },
+  {
+    "residue": "E",
+    "position": 523,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.052,
+    "backbone_dynamics": 0.84,
+    "early_folding": 0.047
+  },
+  {
+    "residue": "E",
+    "position": 524,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.05,
+    "backbone_dynamics": 0.852,
+    "early_folding": 0.065
+  },
+  {
+    "residue": "Y",
+    "position": 525,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.058,
+    "backbone_dynamics": 0.868,
+    "early_folding": 0.182
+  },
+  {
+    "residue": "V",
+    "position": 526,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.056,
+    "backbone_dynamics": 0.881,
+    "early_folding": 0.265
+  },
+  {
+    "residue": "H",
+    "position": 527,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.055,
+    "backbone_dynamics": 0.883,
+    "early_folding": 0.254
+  },
+  {
+    "residue": "R",
+    "position": 528,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.058,
+    "backbone_dynamics": 0.863,
+    "early_folding": 0.135
+  },
+  {
+    "residue": "I",
+    "position": 529,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.062,
+    "backbone_dynamics": 0.835,
+    "early_folding": 0.13
+  },
+  {
+    "residue": "G",
+    "position": 530,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.071,
+    "backbone_dynamics": 0.797,
+    "early_folding": 0.066
+  },
+  {
+    "residue": "R",
+    "position": 531,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.086,
+    "backbone_dynamics": 0.78,
+    "early_folding": 0.022
+  },
+  {
+    "residue": "T",
+    "position": 532,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.095,
+    "backbone_dynamics": 0.765,
+    "early_folding": 0.032
+  },
+  {
+    "residue": "G",
+    "position": 533,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.102,
+    "backbone_dynamics": 0.745,
+    "early_folding": 0.036
+  },
+  {
+    "residue": "R",
+    "position": 534,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.107,
+    "backbone_dynamics": 0.747,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "V",
+    "position": 535,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.103,
+    "backbone_dynamics": 0.757,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "G",
+    "position": 536,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.092,
+    "backbone_dynamics": 0.756,
+    "early_folding": 0.03
+  },
+  {
+    "residue": "N",
+    "position": 537,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.087,
+    "backbone_dynamics": 0.761,
+    "early_folding": 0.021
+  },
+  {
+    "residue": "L",
+    "position": 538,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.083,
+    "backbone_dynamics": 0.78,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "G",
+    "position": 539,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.079,
+    "backbone_dynamics": 0.782,
+    "early_folding": 0.028
+  },
+  {
+    "residue": "L",
+    "position": 540,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.071,
+    "backbone_dynamics": 0.798,
+    "early_folding": 0.046
+  },
+  {
+    "residue": "A",
+    "position": 541,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.064,
+    "backbone_dynamics": 0.819,
+    "early_folding": 0.062
+  },
+  {
+    "residue": "T",
+    "position": 542,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.063,
+    "backbone_dynamics": 0.843,
+    "early_folding": 0.08
+  },
+  {
+    "residue": "S",
+    "position": 543,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.065,
+    "backbone_dynamics": 0.855,
+    "early_folding": 0.073
+  },
+  {
+    "residue": "F",
+    "position": 544,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.068,
+    "backbone_dynamics": 0.868,
+    "early_folding": 0.075
+  },
+  {
+    "residue": "F",
+    "position": 545,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.072,
+    "backbone_dynamics": 0.87,
+    "early_folding": 0.103
+  },
+  {
+    "residue": "N",
+    "position": 546,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.074,
+    "backbone_dynamics": 0.869,
+    "early_folding": 0.089
+  },
+  {
+    "residue": "E",
+    "position": 547,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.08,
+    "backbone_dynamics": 0.86,
+    "early_folding": 0.048
+  },
+  {
+    "residue": "R",
+    "position": 548,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.085,
+    "backbone_dynamics": 0.852,
+    "early_folding": 0.054
+  },
+  {
+    "residue": "N",
+    "position": 549,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.088,
+    "backbone_dynamics": 0.864,
+    "early_folding": 0.077
+  },
+  {
+    "residue": "I",
+    "position": 550,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.09,
+    "backbone_dynamics": 0.871,
+    "early_folding": 0.081
+  },
+  {
+    "residue": "N",
+    "position": 551,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.093,
+    "backbone_dynamics": 0.879,
+    "early_folding": 0.071
+  },
+  {
+    "residue": "I",
+    "position": 552,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.084,
+    "backbone_dynamics": 0.893,
+    "early_folding": 0.125
+  },
+  {
+    "residue": "T",
+    "position": 553,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.078,
+    "backbone_dynamics": 0.93,
+    "early_folding": 0.155
+  },
+  {
+    "residue": "K",
+    "position": 554,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.077,
+    "backbone_dynamics": 0.944,
+    "early_folding": 0.092
+  },
+  {
+    "residue": "D",
+    "position": 555,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.078,
+    "backbone_dynamics": 0.956,
+    "early_folding": 0.091
+  },
+  {
+    "residue": "L",
+    "position": 556,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.073,
+    "backbone_dynamics": 0.951,
+    "early_folding": 0.174
+  },
+  {
+    "residue": "L",
+    "position": 557,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.078,
+    "backbone_dynamics": 0.962,
+    "early_folding": 0.234
+  },
+  {
+    "residue": "D",
+    "position": 558,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.083,
+    "backbone_dynamics": 0.952,
+    "early_folding": 0.263
+  },
+  {
+    "residue": "L",
+    "position": 559,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.082,
+    "backbone_dynamics": 0.935,
+    "early_folding": 0.355
+  },
+  {
+    "residue": "L",
+    "position": 560,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.086,
+    "backbone_dynamics": 0.928,
+    "early_folding": 0.412
+  },
+  {
+    "residue": "V",
+    "position": 561,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.097,
+    "backbone_dynamics": 0.921,
+    "early_folding": 0.31
+  },
+  {
+    "residue": "E",
+    "position": 562,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.101,
+    "backbone_dynamics": 0.896,
+    "early_folding": 0.167
+  },
+  {
+    "residue": "A",
+    "position": 563,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.103,
+    "backbone_dynamics": 0.868,
+    "early_folding": 0.126
+  },
+  {
+    "residue": "K",
+    "position": 564,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.105,
+    "backbone_dynamics": 0.837,
+    "early_folding": 0.085
+  },
+  {
+    "residue": "Q",
+    "position": 565,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.134,
+    "backbone_dynamics": 0.825,
+    "early_folding": 0.062
+  },
+  {
+    "residue": "E",
+    "position": 566,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.154,
+    "backbone_dynamics": 0.824,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "V",
+    "position": 567,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.138,
+    "backbone_dynamics": 0.819,
+    "early_folding": 0.06
+  },
+  {
+    "residue": "P",
+    "position": 568,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.145,
+    "backbone_dynamics": 0.818,
+    "early_folding": 0.038
+  },
+  {
+    "residue": "S",
+    "position": 569,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.173,
+    "backbone_dynamics": 0.812,
+    "early_folding": 0.028
+  },
+  {
+    "residue": "W",
+    "position": 570,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.176,
+    "backbone_dynamics": 0.805,
+    "early_folding": 0.063
+  },
+  {
+    "residue": "L",
+    "position": 571,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.159,
+    "backbone_dynamics": 0.804,
+    "early_folding": 0.081
+  },
+  {
+    "residue": "E",
+    "position": 572,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.16,
+    "backbone_dynamics": 0.801,
+    "early_folding": 0.048
+  },
+  {
+    "residue": "N",
+    "position": 573,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.142,
+    "backbone_dynamics": 0.783,
+    "early_folding": 0.044
+  },
+  {
+    "residue": "M",
+    "position": 574,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.143,
+    "backbone_dynamics": 0.777,
+    "early_folding": 0.043
+  },
+  {
+    "residue": "A",
+    "position": 575,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.138,
+    "backbone_dynamics": 0.778,
+    "early_folding": 0.048
+  },
+  {
+    "residue": "Y",
+    "position": 576,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.149,
+    "backbone_dynamics": 0.781,
+    "early_folding": 0.061
+  },
+  {
+    "residue": "E",
+    "position": 577,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.157,
+    "backbone_dynamics": 0.796,
+    "early_folding": 0.056
+  },
+  {
+    "residue": "H",
+    "position": 578,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.17,
+    "backbone_dynamics": 0.787,
+    "early_folding": 0.069
+  },
+  {
+    "residue": "H",
+    "position": 579,
+    "secondary_structure": "H",
+    "disordered_propensity": 0.19,
+    "backbone_dynamics": 0.766,
+    "early_folding": 0.073
+  },
+  {
+    "residue": "Y",
+    "position": 580,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.204,
+    "backbone_dynamics": 0.742,
+    "early_folding": 0.052
+  },
+  {
+    "residue": "K",
+    "position": 581,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.217,
+    "backbone_dynamics": 0.7,
+    "early_folding": 0.018
+  },
+  {
+    "residue": "G",
+    "position": 582,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.225,
+    "backbone_dynamics": 0.65,
+    "early_folding": 0.013
+  },
+  {
+    "residue": "S",
+    "position": 583,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.244,
+    "backbone_dynamics": 0.622,
+    "early_folding": 0.009
+  },
+  {
+    "residue": "S",
+    "position": 584,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.269,
+    "backbone_dynamics": 0.595,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "R",
+    "position": 585,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.287,
+    "backbone_dynamics": 0.584,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "G",
+    "position": 586,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.295,
+    "backbone_dynamics": 0.576,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "R",
+    "position": 587,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.295,
+    "backbone_dynamics": 0.59,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "S",
+    "position": 588,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.298,
+    "backbone_dynamics": 0.608,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "K",
+    "position": 589,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.308,
+    "backbone_dynamics": 0.614,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 590,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.307,
+    "backbone_dynamics": 0.616,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "S",
+    "position": 591,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.309,
+    "backbone_dynamics": 0.624,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "R",
+    "position": 592,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.313,
+    "backbone_dynamics": 0.62,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "F",
+    "position": 593,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.308,
+    "backbone_dynamics": 0.624,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 594,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.314,
+    "backbone_dynamics": 0.611,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "G",
+    "position": 595,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.314,
+    "backbone_dynamics": 0.591,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "G",
+    "position": 596,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.312,
+    "backbone_dynamics": 0.595,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "F",
+    "position": 597,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.309,
+    "backbone_dynamics": 0.608,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "G",
+    "position": 598,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.313,
+    "backbone_dynamics": 0.63,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "A",
+    "position": 599,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.312,
+    "backbone_dynamics": 0.665,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "R",
+    "position": 600,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.32,
+    "backbone_dynamics": 0.703,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "D",
+    "position": 601,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.327,
+    "backbone_dynamics": 0.733,
+    "early_folding": 0.016
+  },
+  {
+    "residue": "Y",
+    "position": 602,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.328,
+    "backbone_dynamics": 0.719,
+    "early_folding": 0.027
+  },
+  {
+    "residue": "R",
+    "position": 603,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.333,
+    "backbone_dynamics": 0.699,
+    "early_folding": 0.016
+  },
+  {
+    "residue": "Q",
+    "position": 604,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.325,
+    "backbone_dynamics": 0.663,
+    "early_folding": 0.011
+  },
+  {
+    "residue": "S",
+    "position": 605,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.334,
+    "backbone_dynamics": 0.628,
+    "early_folding": 0.01
+  },
+  {
+    "residue": "S",
+    "position": 606,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.337,
+    "backbone_dynamics": 0.576,
+    "early_folding": 0.004
+  },
+  {
+    "residue": "G",
+    "position": 607,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.346,
+    "backbone_dynamics": 0.541,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "A",
+    "position": 608,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.34,
+    "backbone_dynamics": 0.538,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "S",
+    "position": 609,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.337,
+    "backbone_dynamics": 0.543,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "S",
+    "position": 610,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.339,
+    "backbone_dynamics": 0.55,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "S",
+    "position": 611,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.341,
+    "backbone_dynamics": 0.562,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "S",
+    "position": 612,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.342,
+    "backbone_dynamics": 0.577,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "F",
+    "position": 613,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.348,
+    "backbone_dynamics": 0.595,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 614,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.353,
+    "backbone_dynamics": 0.599,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "S",
+    "position": 615,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.358,
+    "backbone_dynamics": 0.598,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "S",
+    "position": 616,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.356,
+    "backbone_dynamics": 0.584,
+    "early_folding": 0.008
+  },
+  {
+    "residue": "R",
+    "position": 617,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.355,
+    "backbone_dynamics": 0.584,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "A",
+    "position": 618,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.358,
+    "backbone_dynamics": 0.58,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "S",
+    "position": 619,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.36,
+    "backbone_dynamics": 0.556,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "S",
+    "position": 620,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.36,
+    "backbone_dynamics": 0.533,
+    "early_folding": 0.007
+  },
+  {
+    "residue": "S",
+    "position": 621,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.359,
+    "backbone_dynamics": 0.493,
+    "early_folding": 0.005
+  },
+  {
+    "residue": "R",
+    "position": 622,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.358,
+    "backbone_dynamics": 0.466,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "S",
+    "position": 623,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.355,
+    "backbone_dynamics": 0.439,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 624,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.352,
+    "backbone_dynamics": 0.402,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 625,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.351,
+    "backbone_dynamics": 0.39,
+    "early_folding": 0.002
+  },
+  {
+    "residue": "G",
+    "position": 626,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.346,
+    "backbone_dynamics": 0.403,
+    "early_folding": 0.003
+  },
+  {
+    "residue": "G",
+    "position": 627,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.341,
+    "backbone_dynamics": 0.442,
+    "early_folding": 0.006
+  },
+  {
+    "residue": "H",
+    "position": 628,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.339,
+    "backbone_dynamics": 0.486,
+    "early_folding": 0.019
+  },
+  {
+    "residue": "G",
+    "position": 629,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.337,
+    "backbone_dynamics": 0.525,
+    "early_folding": 0.035
+  },
+  {
+    "residue": "S",
+    "position": 630,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.332,
+    "backbone_dynamics": 0.545,
+    "early_folding": 0.053
+  },
+  {
+    "residue": "S",
+    "position": 631,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.33,
+    "backbone_dynamics": 0.558,
+    "early_folding": 0.052
+  },
+  {
+    "residue": "R",
+    "position": 632,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.328,
+    "backbone_dynamics": 0.573,
+    "early_folding": 0.031
+  },
+  {
+    "residue": "G",
+    "position": 633,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.325,
+    "backbone_dynamics": 0.566,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "F",
+    "position": 634,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.322,
+    "backbone_dynamics": 0.56,
+    "early_folding": 0.033
+  },
+  {
+    "residue": "G",
+    "position": 635,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.319,
+    "backbone_dynamics": 0.544,
+    "early_folding": 0.016
+  },
+  {
+    "residue": "G",
+    "position": 636,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.312,
+    "backbone_dynamics": 0.547,
+    "early_folding": 0.015
+  },
+  {
+    "residue": "G",
+    "position": 637,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.307,
+    "backbone_dynamics": 0.558,
+    "early_folding": 0.025
+  },
+  {
+    "residue": "G",
+    "position": 638,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.306,
+    "backbone_dynamics": 0.593,
+    "early_folding": 0.05
+  },
+  {
+    "residue": "Y",
+    "position": 639,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.307,
+    "backbone_dynamics": 0.619,
+    "early_folding": 0.105
+  },
+  {
+    "residue": "G",
+    "position": 640,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.31,
+    "backbone_dynamics": 0.652,
+    "early_folding": 0.179
+  },
+  {
+    "residue": "G",
+    "position": 641,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.314,
+    "backbone_dynamics": 0.685,
+    "early_folding": 0.318
+  },
+  {
+    "residue": "F",
+    "position": 642,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.321,
+    "backbone_dynamics": 0.733,
+    "early_folding": 0.455
+  },
+  {
+    "residue": "Y",
+    "position": 643,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.328,
+    "backbone_dynamics": 0.765,
+    "early_folding": 0.379
+  },
+  {
+    "residue": "N",
+    "position": 644,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.334,
+    "backbone_dynamics": 0.776,
+    "early_folding": 0.207
+  },
+  {
+    "residue": "S",
+    "position": 645,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.339,
+    "backbone_dynamics": 0.764,
+    "early_folding": 0.09
+  },
+  {
+    "residue": "D",
+    "position": 646,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.343,
+    "backbone_dynamics": 0.75,
+    "early_folding": 0.026
+  },
+  {
+    "residue": "G",
+    "position": 647,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.346,
+    "backbone_dynamics": 0.708,
+    "early_folding": 0.02
+  },
+  {
+    "residue": "Y",
+    "position": 648,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.347,
+    "backbone_dynamics": 0.683,
+    "early_folding": 0.034
+  },
+  {
+    "residue": "G",
+    "position": 649,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.346,
+    "backbone_dynamics": 0.662,
+    "early_folding": 0.042
+  },
+  {
+    "residue": "G",
+    "position": 650,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.345,
+    "backbone_dynamics": 0.669,
+    "early_folding": 0.052
+  },
+  {
+    "residue": "N",
+    "position": 651,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.341,
+    "backbone_dynamics": 0.695,
+    "early_folding": 0.049
+  },
+  {
+    "residue": "Y",
+    "position": 652,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.341,
+    "backbone_dynamics": 0.728,
+    "early_folding": 0.053
+  },
+  {
+    "residue": "N",
+    "position": 653,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.341,
+    "backbone_dynamics": 0.747,
+    "early_folding": 0.045
+  },
+  {
+    "residue": "S",
+    "position": 654,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.338,
+    "backbone_dynamics": 0.756,
+    "early_folding": 0.046
+  },
+  {
+    "residue": "Q",
+    "position": 655,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.335,
+    "backbone_dynamics": 0.756,
+    "early_folding": 0.057
+  },
+  {
+    "residue": "G",
+    "position": 656,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.327,
+    "backbone_dynamics": 0.776,
+    "early_folding": 0.112
+  },
+  {
+    "residue": "V",
+    "position": 657,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.326,
+    "backbone_dynamics": 0.823,
+    "early_folding": 0.121
+  },
+  {
+    "residue": "D",
+    "position": 658,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.333,
+    "backbone_dynamics": 0.858,
+    "early_folding": 0.06
+  },
+  {
+    "residue": "W",
+    "position": 659,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.352,
+    "backbone_dynamics": 0.863,
+    "early_folding": 0.084
+  },
+  {
+    "residue": "W",
+    "position": 660,
+    "secondary_structure": "E",
+    "disordered_propensity": 0.347,
+    "backbone_dynamics": 0.842,
+    "early_folding": 0.112
+  },
+  {
+    "residue": "G",
+    "position": 661,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.328,
+    "backbone_dynamics": 0.816,
+    "early_folding": 0.057
+  },
+  {
+    "residue": "N",
+    "position": 662,
+    "secondary_structure": "C",
+    "disordered_propensity": 0.297,
+    "backbone_dynamics": 0.81,
+    "early_folding": 0.053
+  }
+]

@@ -1,0 +1,1010 @@
+[
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 4,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DSSGWSSSK",
+    "peptide_start": 56,
+    "peptide_end": 64,
+    "peptide_modification_position": 6,
+    "project_frequency": 12,
+    "uniprot_position": 61,
+    "score": 99.6
+  },
+  {
+    "peptide_sequence": "DAYSSFGSR",
+    "peptide_start": 67,
+    "peptide_end": 75,
+    "peptide_modification_position": 5,
+    "project_frequency": 26,
+    "uniprot_position": 71,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DAYSSFGSR",
+    "peptide_start": 67,
+    "peptide_end": 75,
+    "peptide_modification_position": 8,
+    "project_frequency": 3,
+    "uniprot_position": 74,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DAYSSFGSR",
+    "peptide_start": 67,
+    "peptide_end": 75,
+    "peptide_modification_position": 4,
+    "project_frequency": 2,
+    "uniprot_position": 70,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DAYSSFGSR",
+    "peptide_start": 67,
+    "peptide_end": 75,
+    "peptide_modification_position": 3,
+    "project_frequency": 38,
+    "uniprot_position": 69,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSFFSDRGSGSR",
+    "peptide_start": 82,
+    "peptide_end": 93,
+    "peptide_modification_position": 5,
+    "project_frequency": 1,
+    "uniprot_position": 86,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSFFSDRGSGSR",
+    "peptide_start": 82,
+    "peptide_end": 93,
+    "peptide_modification_position": 9,
+    "project_frequency": 3,
+    "uniprot_position": 90,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GRSDYDGIGSR",
+    "peptide_start": 100,
+    "peptide_end": 110,
+    "peptide_modification_position": 3,
+    "project_frequency": 1,
+    "uniprot_position": 102,
+    "score": 98.9
+  },
+  {
+    "peptide_sequence": "WCDKSDEDDWSK",
+    "peptide_start": 127,
+    "peptide_end": 138,
+    "peptide_modification_position": 5,
+    "project_frequency": 8,
+    "uniprot_position": 131,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SDEDDWSK",
+    "peptide_start": 131,
+    "peptide_end": 138,
+    "peptide_modification_position": 1,
+    "project_frequency": 2,
+    "uniprot_position": 131,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "PLPPSERLEQELFSGGNTGINFEK",
+    "peptide_start": 139,
+    "peptide_end": 162,
+    "peptide_modification_position": 14,
+    "project_frequency": 4,
+    "uniprot_position": 152,
+    "score": 99.9
+  },
+  {
+    "peptide_sequence": "LEQELFSGGNTGINFEK",
+    "peptide_start": 146,
+    "peptide_end": 162,
+    "peptide_modification_position": 7,
+    "project_frequency": 2,
+    "uniprot_position": 152,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "YTRPTPVQK",
+    "peptide_start": 200,
+    "peptide_end": 208,
+    "peptide_modification_position": 5,
+    "project_frequency": 5,
+    "uniprot_position": 204,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QYPISLVLAPTR",
+    "peptide_start": 265,
+    "peptide_end": 276,
+    "peptide_modification_position": 2,
+    "project_frequency": 1,
+    "uniprot_position": 266,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "MLDMGFEPQIRRIVEQDTMPPK",
+    "peptide_start": 352,
+    "peptide_end": 373,
+    "peptide_modification_position": 18,
+    "project_frequency": 1,
+    "uniprot_position": 369,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SGKSPILVATAVAAR",
+    "peptide_start": 489,
+    "peptide_end": 503,
+    "peptide_modification_position": 4,
+    "project_frequency": 1,
+    "uniprot_position": 492,
+    "score": 99.1
+  },
+  {
+    "peptide_sequence": "VGSTSENITQK",
+    "peptide_start": 408,
+    "peptide_end": 418,
+    "peptide_modification_position": 3,
+    "project_frequency": 6,
+    "uniprot_position": 410,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 11,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SPILVATAVAAR",
+    "peptide_start": 492,
+    "peptide_end": 503,
+    "peptide_modification_position": 1,
+    "project_frequency": 4,
+    "uniprot_position": 492,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 30,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 3,
+    "uniprot_position": 591,
+    "score": 99.2
+  },
+  {
+    "peptide_sequence": "DYRQSSGASSSSFSSSR",
+    "peptide_start": 601,
+    "peptide_end": 617,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 605,
+    "score": 99
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 3,
+    "project_frequency": 8,
+    "uniprot_position": 606,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 2,
+    "project_frequency": 2,
+    "uniprot_position": 605,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GKSSFFSDR",
+    "peptide_start": 80,
+    "peptide_end": 88,
+    "peptide_modification_position": 4,
+    "project_frequency": 2,
+    "uniprot_position": 83,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 9,
+    "project_frequency": 2,
+    "uniprot_position": 612,
+    "score": 99.7
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 11,
+    "project_frequency": 4,
+    "uniprot_position": 614,
+    "score": 99.3
+  },
+  {
+    "peptide_sequence": "SSFFSDR",
+    "peptide_start": 82,
+    "peptide_end": 88,
+    "peptide_modification_position": 2,
+    "project_frequency": 1,
+    "uniprot_position": 83,
+    "score": 98.6
+  },
+  {
+    "peptide_sequence": "GKSSFFSDR",
+    "peptide_start": 80,
+    "peptide_end": 88,
+    "peptide_modification_position": 3,
+    "project_frequency": 1,
+    "uniprot_position": 82,
+    "score": 50
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 3,
+    "project_frequency": 1,
+    "uniprot_position": 606,
+    "score": 98.1
+  },
+  {
+    "peptide_sequence": "GFYDKDSSGWSSSK",
+    "peptide_start": 51,
+    "peptide_end": 64,
+    "peptide_modification_position": 3,
+    "project_frequency": 2,
+    "uniprot_position": 53,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 12,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSFFSDRGSGSR",
+    "peptide_start": 82,
+    "peptide_end": 93,
+    "peptide_modification_position": 11,
+    "project_frequency": 1,
+    "uniprot_position": 92,
+    "score": 50
+  },
+  {
+    "peptide_sequence": "DKDAYSSFGSR",
+    "peptide_start": 65,
+    "peptide_end": 75,
+    "peptide_modification_position": 5,
+    "project_frequency": 48,
+    "uniprot_position": 69,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DAYSSFGSR",
+    "peptide_start": 67,
+    "peptide_end": 75,
+    "peptide_modification_position": 3,
+    "project_frequency": 2,
+    "uniprot_position": 69,
+    "score": 99.3
+  },
+  {
+    "peptide_sequence": "GKSSFFSDR",
+    "peptide_start": 80,
+    "peptide_end": 88,
+    "peptide_modification_position": 4,
+    "project_frequency": 2,
+    "uniprot_position": 83,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GRSDYDGIGSR",
+    "peptide_start": 100,
+    "peptide_end": 110,
+    "peptide_modification_position": 5,
+    "project_frequency": 27,
+    "uniprot_position": 104,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSFFSDRGSGSR",
+    "peptide_start": 82,
+    "peptide_end": 93,
+    "peptide_modification_position": 9,
+    "project_frequency": 9,
+    "uniprot_position": 90,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GRSDYDGIGSRGDR",
+    "peptide_start": 100,
+    "peptide_end": 113,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 104,
+    "score": 99.2
+  },
+  {
+    "peptide_sequence": "SDYDGIGSR",
+    "peptide_start": 102,
+    "peptide_end": 110,
+    "peptide_modification_position": 3,
+    "project_frequency": 3,
+    "uniprot_position": 104,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SDYDGIGSRGDR",
+    "peptide_start": 102,
+    "peptide_end": 113,
+    "peptide_modification_position": 3,
+    "project_frequency": 1,
+    "uniprot_position": 104,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 3,
+    "project_frequency": 1,
+    "uniprot_position": 606,
+    "score": 99.3
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 17,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 39,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 9,
+    "project_frequency": 1,
+    "uniprot_position": 612,
+    "score": 98.7
+  },
+  {
+    "peptide_sequence": "GRSDYDGIGSR",
+    "peptide_start": 100,
+    "peptide_end": 110,
+    "peptide_modification_position": 3,
+    "project_frequency": 3,
+    "uniprot_position": 102,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSFFSDR",
+    "peptide_start": 82,
+    "peptide_end": 88,
+    "peptide_modification_position": 1,
+    "project_frequency": 2,
+    "uniprot_position": 82,
+    "score": 99.2
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 9,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "WCDKSDEDDWSK",
+    "peptide_start": 127,
+    "peptide_end": 138,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 131,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SDEDDWSK",
+    "peptide_start": 131,
+    "peptide_end": 138,
+    "peptide_modification_position": 1,
+    "project_frequency": 1,
+    "uniprot_position": 131,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DYRQSSGASSSSFSSSR",
+    "peptide_start": 601,
+    "peptide_end": 617,
+    "peptide_modification_position": 5,
+    "project_frequency": 1,
+    "uniprot_position": 605,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 3,
+    "project_frequency": 3,
+    "uniprot_position": 606,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 6,
+    "project_frequency": 4,
+    "uniprot_position": 609,
+    "score": 99.5
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 2,
+    "project_frequency": 3,
+    "uniprot_position": 605,
+    "score": 99.2
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 9,
+    "project_frequency": 3,
+    "uniprot_position": 612,
+    "score": 99.1
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 11,
+    "project_frequency": 1,
+    "uniprot_position": 614,
+    "score": 99.1
+  },
+  {
+    "peptide_sequence": "VGSTSENITQK",
+    "peptide_start": 408,
+    "peptide_end": 418,
+    "peptide_modification_position": 3,
+    "project_frequency": 2,
+    "uniprot_position": 410,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 6,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 5,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 8,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 7,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 3,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DKDAYSSFGSR",
+    "peptide_start": 65,
+    "peptide_end": 75,
+    "peptide_modification_position": 5,
+    "project_frequency": 12,
+    "uniprot_position": 69,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SDYDGIGSR",
+    "peptide_start": 102,
+    "peptide_end": 110,
+    "peptide_modification_position": 3,
+    "project_frequency": 2,
+    "uniprot_position": 104,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GRSDYDGIGSR",
+    "peptide_start": 100,
+    "peptide_end": 110,
+    "peptide_modification_position": 5,
+    "project_frequency": 7,
+    "uniprot_position": 104,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "RKQYPISLVLAPTR",
+    "peptide_start": 263,
+    "peptide_end": 276,
+    "peptide_modification_position": 4,
+    "project_frequency": 5,
+    "uniprot_position": 266,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "KQYPISLVLAPTR",
+    "peptide_start": 264,
+    "peptide_end": 276,
+    "peptide_modification_position": 3,
+    "project_frequency": 3,
+    "uniprot_position": 266,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "VRPCVVYGGADIGQQIR",
+    "peptide_start": 295,
+    "peptide_end": 311,
+    "peptide_modification_position": 7,
+    "project_frequency": 3,
+    "uniprot_position": 301,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "LEQELFSGGNTGINFEK",
+    "peptide_start": 146,
+    "peptide_end": 162,
+    "peptide_modification_position": 11,
+    "project_frequency": 1,
+    "uniprot_position": 156,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 3,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "VGSTSENITQK",
+    "peptide_start": 408,
+    "peptide_end": 418,
+    "peptide_modification_position": 3,
+    "project_frequency": 6,
+    "uniprot_position": 410,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "VGSTSENITQK",
+    "peptide_start": 408,
+    "peptide_end": 418,
+    "peptide_modification_position": 4,
+    "project_frequency": 1,
+    "uniprot_position": 411,
+    "score": 98.9
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 31,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 4,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 3,
+    "project_frequency": 1,
+    "uniprot_position": 606,
+    "score": 99.2
+  },
+  {
+    "peptide_sequence": "GRSDYDGIGSR",
+    "peptide_start": 100,
+    "peptide_end": 110,
+    "peptide_modification_position": 5,
+    "project_frequency": 1,
+    "uniprot_position": 104,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DAYSSFGSR",
+    "peptide_start": 67,
+    "peptide_end": 75,
+    "peptide_modification_position": 3,
+    "project_frequency": 3,
+    "uniprot_position": 69,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 6,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSFFSDR",
+    "peptide_start": 82,
+    "peptide_end": 88,
+    "peptide_modification_position": 1,
+    "project_frequency": 1,
+    "uniprot_position": 82,
+    "score": 50
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 5,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GKSSFFSDR",
+    "peptide_start": 80,
+    "peptide_end": 88,
+    "peptide_modification_position": 4,
+    "project_frequency": 3,
+    "uniprot_position": 83,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "HVINFDLPSDIEEYVHR",
+    "peptide_start": 512,
+    "peptide_end": 528,
+    "peptide_modification_position": 9,
+    "project_frequency": 1,
+    "uniprot_position": 520,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DAYSSFGSR",
+    "peptide_start": 67,
+    "peptide_end": 75,
+    "peptide_modification_position": 5,
+    "project_frequency": 1,
+    "uniprot_position": 71,
+    "score": 99.1
+  },
+  {
+    "peptide_sequence": "SSFFSDR",
+    "peptide_start": 82,
+    "peptide_end": 88,
+    "peptide_modification_position": 1,
+    "project_frequency": 5,
+    "uniprot_position": 82,
+    "score": 99.4
+  },
+  {
+    "peptide_sequence": "SSFFSDR",
+    "peptide_start": 82,
+    "peptide_end": 88,
+    "peptide_modification_position": 2,
+    "project_frequency": 1,
+    "uniprot_position": 83,
+    "score": 97.5
+  },
+  {
+    "peptide_sequence": "IGLDFCKYLVLDEADR",
+    "peptide_start": 336,
+    "peptide_end": 351,
+    "peptide_modification_position": 8,
+    "project_frequency": 1,
+    "uniprot_position": 343,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "WCDKSDEDDWSK",
+    "peptide_start": 127,
+    "peptide_end": 138,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 131,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "LEQELFSGGNTGINFEK",
+    "peptide_start": 146,
+    "peptide_end": 162,
+    "peptide_modification_position": 7,
+    "project_frequency": 2,
+    "uniprot_position": 152,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 9,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GLDISNVK",
+    "peptide_start": 504,
+    "peptide_end": 511,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 508,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "HVINFDLPSDIEEYVHR",
+    "peptide_start": 512,
+    "peptide_end": 528,
+    "peptide_modification_position": 9,
+    "project_frequency": 2,
+    "uniprot_position": 520,
+    "score": 99.2
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 13,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "DYRQSSGASSSSFSSSR",
+    "peptide_start": 601,
+    "peptide_end": 617,
+    "peptide_modification_position": 5,
+    "project_frequency": 2,
+    "uniprot_position": 605,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 6,
+    "project_frequency": 1,
+    "uniprot_position": 609,
+    "score": 98.3
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 5,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GKSSFFSDR",
+    "peptide_start": 80,
+    "peptide_end": 88,
+    "peptide_modification_position": 4,
+    "project_frequency": 11,
+    "uniprot_position": 83,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 4,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 26,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSFFSDRGSGSR",
+    "peptide_start": 82,
+    "peptide_end": 93,
+    "peptide_modification_position": 9,
+    "project_frequency": 8,
+    "uniprot_position": 90,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GRSDYDGIGSR",
+    "peptide_start": 100,
+    "peptide_end": 110,
+    "peptide_modification_position": 3,
+    "project_frequency": 2,
+    "uniprot_position": 102,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "SSRFSGGFGAR",
+    "peptide_start": 590,
+    "peptide_end": 600,
+    "peptide_modification_position": 5,
+    "project_frequency": 49,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSRASSSR",
+    "peptide_start": 604,
+    "peptide_end": 622,
+    "peptide_modification_position": 16,
+    "project_frequency": 2,
+    "uniprot_position": 619,
+    "score": 98.4
+  },
+  {
+    "peptide_sequence": "GKSSFFSDR",
+    "peptide_start": 80,
+    "peptide_end": 88,
+    "peptide_modification_position": 3,
+    "project_frequency": 4,
+    "uniprot_position": 82,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "GKSSFFSDR",
+    "peptide_start": 80,
+    "peptide_end": 88,
+    "peptide_modification_position": 4,
+    "project_frequency": 1,
+    "uniprot_position": 83,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FDDRGRSDYDGIGSR",
+    "peptide_start": 96,
+    "peptide_end": 110,
+    "peptide_modification_position": 7,
+    "project_frequency": 1,
+    "uniprot_position": 102,
+    "score": 98.9
+  },
+  {
+    "peptide_sequence": "VGSTSENITQK",
+    "peptide_start": 408,
+    "peptide_end": 418,
+    "peptide_modification_position": 3,
+    "project_frequency": 1,
+    "uniprot_position": 410,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "FSGGFGAR",
+    "peptide_start": 593,
+    "peptide_end": 600,
+    "peptide_modification_position": 2,
+    "project_frequency": 1,
+    "uniprot_position": 594,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 3,
+    "project_frequency": 3,
+    "uniprot_position": 606,
+    "score": 100
+  },
+  {
+    "peptide_sequence": "QSSGASSSSFSSSR",
+    "peptide_start": 604,
+    "peptide_end": 617,
+    "peptide_modification_position": 13,
+    "project_frequency": 1,
+    "uniprot_position": 616,
+    "score": 50
+  }
+]
