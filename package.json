@@ -18,6 +18,7 @@
     "@nightingale-elements/nightingale-sequence": "^5.6.0",
     "d3": "^7.9.0",
     "graphology": "^0.26.0",
+    "pdbe-molstar": "^3.8.0",
     "pinia": "^3.0.3",
     "sigma": "^3.0.2",
     "vue": "^3.5.18",

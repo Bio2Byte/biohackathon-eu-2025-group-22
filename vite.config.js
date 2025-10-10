@@ -16,7 +16,7 @@ export default defineConfig({
       template: {
         compilerOptions: {
           // be specific or allow the whole Nightingale family
-          isCustomElement: (tag) => tag === 'nightingale-sequence' || tag.startsWith('nightingale-') || tag.startsWith('sigma') || tag.startsWith("graphology"),
+          isCustomElement: (tag) => tag === 'nightingale-sequence' || tag.startsWith('nightingale-') || tag.startsWith('sigma') || tag.startsWith("graphology") || tag.startsWith("pdbe-molstar"),
         },
       },
     }),
@@ -30,7 +30,7 @@ export default defineConfig({
   resolve: {
     alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) },
   },
-
+  // external: [/^molstar/],
   // If you want the browser testing project config, keep it,
   // but remove the extra nested vue() plugin from the test plugin list.
   test: {

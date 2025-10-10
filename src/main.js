@@ -13,6 +13,8 @@ import '@nightingale-elements/nightingale-structure';
 import "graphology";
 import "sigma";
 
+import "pdbe-molstar"
+
 import App from './App.vue'
 import router from './router'
 
