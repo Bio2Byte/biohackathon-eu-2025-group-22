@@ -10,6 +10,9 @@ import '@nightingale-elements/nightingale-track';
 import '@nightingale-elements/nightingale-linegraph-track';
 import '@nightingale-elements/nightingale-structure';
 
+import "graphology";
+import "sigma";
+
 import App from './App.vue'
 import router from './router'
 
