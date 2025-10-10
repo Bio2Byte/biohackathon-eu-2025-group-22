@@ -1,9 +1,9 @@
-import Example from '../../VisualComponents/Example/Example.vue';
+import Lollypop from '@/components/track_linear/lollypop/Lollypop.vue'
 
 
 export default {
-  title: 'VisualComponents/Graphs/Networks',
-  component: Example,
+  title: 'Tracks/Linear/Lollypop',
+  component: Lollypop,
   parameters: {
     layout: 'centered',
   },

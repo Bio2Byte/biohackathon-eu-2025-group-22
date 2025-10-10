@@ -3,6 +3,7 @@ import vue from "@vitejs/plugin-vue";
 
 const config = {
   stories: [
+    "../src/**/*.mdx",
     "../src/stories/**/*.stories.@(js|jsx|mjs|ts|tsx)"
   ],
   addons: [

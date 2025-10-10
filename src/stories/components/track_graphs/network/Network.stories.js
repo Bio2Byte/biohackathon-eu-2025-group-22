@@ -1,9 +1,9 @@
-import Example from '../../VisualComponents/Example/Example.vue';
+import Network from '@/components/track_graphs/network/Network.vue';
 
 
 export default {
-  title: 'VisualComponents/3D/1D-3D',
-  component: Example,
+  title: 'Tracks/Graphs/Network',
+  component: Network,
   parameters: {
     layout: 'centered',
   },

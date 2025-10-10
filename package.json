@@ -15,11 +15,12 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@nightingale-elements/nightingale-sequence": "^5.6.0",
+    "d3": "^7.9.0",
     "pinia": "^3.0.3",
+    "sigma": "^3.0.2",
     "vue": "^3.5.18",
-    "vue-router": "^4.5.1",
-    "d3":"^7.9.0",
-    "sigma": "^3.0.2"
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^4.1.1",
@@ -30,16 +31,16 @@
     "@storybook/addon-vitest": "^9.1.8",
     "@storybook/vue3-vite": "^9.1.8",
     "@vitejs/plugin-vue": "^6.0.1",
+    "@vitest/browser": "^3.2.4",
+    "@vitest/coverage-v8": "^3.2.4",
     "eslint": "^9.31.0",
     "eslint-plugin-storybook": "^9.1.8",
     "eslint-plugin-vue": "~10.3.0",
     "globals": "^16.3.0",
+    "playwright": "^1.55.1",
     "storybook": "^9.1.8",
     "vite": "^7.0.6",
     "vite-plugin-vue-devtools": "^8.0.0",
-    "vitest": "^3.2.4",
-    "@vitest/browser": "^3.2.4",
-    "playwright": "^1.55.1",
-    "@vitest/coverage-v8": "^3.2.4"
+    "vitest": "^3.2.4"
   }
 }

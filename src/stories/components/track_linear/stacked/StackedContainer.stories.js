@@ -1,9 +1,10 @@
-import Example from '../../VisualComponents/Example/Example.vue';
-
+import Lollypop from '@/components/track_linear/lollypop/Lollypop.vue'
+import Peptides from '@/components/track_linear/peptides/Peptides.vue'
+import StackedContainer from '@/components/track_linear/stacked/StackedContainer.vue';
 
 export default {
-  title: 'VisualComponents/Linear/StackedView',
-  component: Example,
+  title: 'Tracks/Linear/StackedContainer',
+  component: StackedContainer,
   parameters: {
     layout: 'centered',
   },

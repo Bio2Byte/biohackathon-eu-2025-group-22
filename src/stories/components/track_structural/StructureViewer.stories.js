@@ -1,9 +1,9 @@
-import Example from '../../VisualComponents/Example/Example.vue';
-import exampleObj from '../../VisualComponents/Example/test-data/example.json'
+import StructureViewer from "@/components/track_structural/1d_3d/StructureViewer.vue";
+
 
 export default {
-  title: 'VisualComponents/Examples/Demo',
-  component: Example,
+  title: 'Tracks/Structural/StructureViewer',
+  component: StructureViewer,
   parameters: {
     layout: 'centered',
   },
@@ -68,10 +68,3 @@ export const Tertiary = {
     color: '#00f'
   }
 };
-
-export const FromFile = {
-  args: {
-    title: exampleObj.title,
-    color: exampleObj.color,
-  }
-}

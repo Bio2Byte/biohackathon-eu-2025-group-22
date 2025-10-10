@@ -1,9 +1,9 @@
-import Example from '../../VisualComponents/Example/Example.vue';
+import Peptides from '@/components/track_linear/peptides/Peptides.vue'
 
 
 export default {
-  title: 'VisualComponents/Linear/Lollypop',
-  component: Example,
+  title: 'Tracks/Linear/Peptides',
+  component: Peptides,
   parameters: {
     layout: 'centered',
   },
