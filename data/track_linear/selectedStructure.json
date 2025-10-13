@@ -1,0 +1,43 @@
+{"selectedStructure":{
+    "pdb_id": "3JRV",
+    "resolution": 1.6,
+    "stoichiometry": "3",
+    "method": "X-ray",
+    "interfacing_molecule": "A",
+    "modifications": [
+        {
+            "uniprot_position": 83,
+            "residue": "SER",
+            "secondary_structure": "C",
+            "chain_id": "C",
+            "pdb_position": 83,
+            "accessible_surface_area": 49.219855096,
+            "burried_surface_area": 47.992932172,
+            "css": 1,
+            "conserved_scale": 1
+        },
+        {
+            "uniprot_position": 82,
+            "residue": "SER",
+            "secondary_structure": "C",
+            "chain_id": "C",
+            "pdb_position": 82,
+            "accessible_surface_area": 109.2723585,
+            "burried_surface_area": 69.308585364,
+            "css": 1,
+            "conserved_scale": 0.86
+        },
+        {
+            "uniprot_position": 86,
+            "residue": "SER",
+            "secondary_structure": "C",
+            "chain_id": "C",
+            "pdb_position": 86,
+            "accessible_surface_area": 125.16642901,
+            "burried_surface_area": 77.042801341,
+            "css": 1,
+            "conserved_scale": 0.49
+        }
+    ]
+}
+}
