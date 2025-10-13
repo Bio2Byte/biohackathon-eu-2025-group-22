@@ -41,6 +41,7 @@
     "globals": "^16.3.0",
     "playwright": "^1.55.1",
     "pug-plain-loader": "^1.1.0",
+    "sass": "^1.81.0",
     "storybook": "^9.1.8",
     "vite": "^7.0.6",
     "vite-plugin-vue-devtools": "^8.0.0",

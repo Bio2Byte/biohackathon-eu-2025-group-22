@@ -1,4 +1,6 @@
 import Peptides from '@/components/track_linear/peptides/Peptides.vue'
+import * as sequence from '../../../../../data/track_linear/fasta_sequence.json'
+import * as peptidesArray from '../../../../../data/track_graphs/peptides.json'
 
 
 export default {
@@ -43,9 +45,16 @@ export default {
  * Primary template with red background
  */
 export const Primary = {
+  render: (args) => ({
+    components: { Peptides },
+    setup() {
+      return { args };
+    },
+    template: '<Peptides v-bind="args" />',
+  }),
   args: {
-    title: 'Primary Title',
-    color: '#f00'
+    sequence: sequence.sequence,
+    peptides: peptidesArray.peptides
   }
 };
 

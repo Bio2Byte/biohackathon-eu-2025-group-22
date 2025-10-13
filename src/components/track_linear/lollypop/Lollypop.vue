@@ -1,12 +1,7 @@
 <script setup>
-// import { protein } from '@/stores/protein'
-// import { proteinStructures } from '@/stores/proteinStructures'
 import { onBeforeMount, ref, watchEffect, watch, onMounted, useTemplateRef } from 'vue'
 import * as d3 from 'd3'
 
-// const proteinStore = protein()
-// const structuresStore = proteinStructures()
-// const sequence = ref(null)
 const modificationsOnStructure = ref(null)
 const proteinBlock = useTemplateRef('protein-block')
 const props = defineProps({
@@ -30,24 +25,6 @@ let maxPeptideCount = 0;
 const margin = { top: 0, right: 40, bottom: 80, left: 40 }
 let svg_width=0, svg_height=0, chart_width=0, chart_height=0, moveXaxis=0
 
-// watch(
-//     () => structuresStore.selectedStructure,
-//     () => {
-//         console.log('selectedStructure changed')
-//         clearPlot()
-//         setProteinSequenceAndPSites(proteinStore.sequence)
-//         createProteinView(proteinStore.sequence)
-//     }
-// )
-onBeforeMount(() => {
-    console.log('onBeforeMount')
-    // convertProteinSequenceIntoArray(props.sequence)
-    // createPtmMapping()
-    console.log(props)
-    // clearPlot()
-    // setProteinSequenceAndPSites(props.sequence)
-    // createProteinView(props.sequence)
-})
 onMounted(() => {
     console.log('onMounted')
     // convertProteinSequenceIntoArray(props.sequence)
