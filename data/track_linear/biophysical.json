@@ -1,4 +1,4 @@
-[
+{"biophysical":[
   {
     "residue": "M",
     "position": 1,
@@ -5295,4 +5295,4 @@
     "backbone_dynamics": 0.81,
     "early_folding": 0.053
   }
-]
+]}

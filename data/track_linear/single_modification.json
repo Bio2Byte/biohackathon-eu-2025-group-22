@@ -1,4 +1,4 @@
-[
+{"modifications":[
   {
     "id": 23243,
     "uniprot_position": 53,
@@ -407,3 +407,4 @@
     "singly_phosphorylated": 1
   }
 ]
+}

@@ -1,6 +1,8 @@
 import Lollypop from '@/components/track_linear/lollypop/Lollypop.vue'
 import Peptides from '@/components/track_linear/peptides/Peptides.vue'
 import StackedContainer from '@/components/track_linear/stacked/StackedContainer.vue';
+import * as sequence from '../../../../../data/track_linear/fasta_sequence.json'
+import * as peptidesArray from '../../../../../data/track_graphs/peptides.json'
 
 export default {
   title: 'Tracks/Linear/StackedContainer',
@@ -45,8 +47,8 @@ export default {
  */
 export const Primary = {
   args: {
-    title: 'Primary Title',
-    color: '#f00'
+    sequence: sequence.sequence,
+    peptides: peptidesArray.peptides
   }
 };
 

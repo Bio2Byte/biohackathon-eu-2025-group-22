@@ -1,4 +1,7 @@
 import Lollypop from '@/components/track_linear/lollypop/Lollypop.vue'
+import * as sequence from '../../../../../data/track_linear/fasta_sequence.json'
+import * as modifications from '../../../../../data/track_linear/single_modification.json'
+import * as selectedStructure from '../../../../../data/track_linear/selectedStructure'
 
 
 export default {
@@ -43,9 +46,17 @@ export default {
  * Primary template with red background
  */
 export const Primary = {
+  render: (args) => ({
+    components: { Lollypop },
+    setup() {
+      return { args };
+    },
+    template: '<Lollypop v-bind="args" />',
+  }),
   args: {
-    title: 'Primary Title',
-    color: '#f00'
+    sequence: sequence.sequence, 
+    modifications: modifications.modifications,
+    selectedStructure: selectedStructure.selectedStructure
   }
 };
 
@@ -55,7 +66,8 @@ export const Primary = {
 export const Secondary = {
   args: {
     title: 'Secondary Title',
-    color: '#0f0'
+    color: '#0f0',
+    
   }
 };
 

@@ -1,4 +1,4 @@
-[
+{"peptides":[
   {
     "peptide_sequence": "FSGGFGAR",
     "peptide_start": 593,
@@ -1007,4 +1007,4 @@
     "uniprot_position": 616,
     "score": 50
   }
-]
+]}
