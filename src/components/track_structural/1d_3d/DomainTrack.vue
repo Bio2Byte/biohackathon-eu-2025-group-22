@@ -23,7 +23,6 @@
     const trackEl = ref(null);  
     onMounted(() => {
         if (trackEl.value) {
-            console.log("Domain track mounted", trackEl.value);
           trackEl.value.data = props.domains.map(d => ({
             start: d.start,
             end: d.end,
@@ -37,17 +36,17 @@
 <template>
     <nightingale-track
         ref="trackEl"
-        v-bind:id="props.id"
-        v-bind:height="props.height"
-        v-bind:length="props.length"
-        v-bind:display-start="props.displayStart"
-        v-bind:display-end="props.displayEnd"
-        v-bind:margin-color="props.marginColor"
-        v-bind:display-labels="props.displayLabels"
-        v-bind:highlight-event="props.highlightEvent"
-        v-bind:highlight-color="props.highlightColor"
-        v-bind:min-width="props.minWidth"
-        v-bind:min-height="props.minHeight"
+        :id="props.id"
+        :height="props.height"
+        :length="props.length"
+        :display-start="props.displayStart"
+        :display-end="props.displayEnd"
+        :margin-color="props.marginColor"
+        :display-labels="props.displayLabels"
+        :highlight-event="props.highlightEvent"
+        :highlight-color="props.highlightColor"
+        :min-width="props.minWidth"
+        :min-height="props.minHeight"
 
     />
 </template>
