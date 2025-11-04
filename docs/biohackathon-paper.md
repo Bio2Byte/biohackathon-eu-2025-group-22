@@ -26,21 +26,31 @@ authors:
       - 3
   - name: Mahfouz Shehu
     orcid: 0009-0002-9470-0368
-    affiliation: 3
+    affiliation: 4
+  - name: Yusuf Shehu
+    orcid: 0009-0009-3732-7051
+    affiliation: 8
+  - name: Elyse Cheng
+    orcid: 0009-0007-6402-9709
+    affiliation: 7
 
 affiliations:
- - name: VIB Structural Biology Research Centre, Brussels 1050, BE
+ - name: VIB Structural Biology Research Centre, Brussels 1050, Belgium
    index: 1
- - name: Interuniversity Institute of Bioinformatics in Brussels, VUB/ULB, Brussels 1050, BE
+ - name: Interuniversity Institute of Bioinformatics in Brussels, VUB/ULB, Brussels 1050, Belgium
    index: 2
- - name: Structural Biology Brussels, Vrije Universiteit Brussel, Brussels 1050, BE
+ - name: Structural Biology Brussels, Vrije Universiteit Brussel, Brussels 1050, Belgium
    index: 3
- - name: EMBL-EBI, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+ - name: EMBL-EBI, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, United Kingdom
    index: 4
- - name: VIB-UGent Center for Medical Biotechnology, VIB, Ghent 9000, BE
+ - name: VIB-UGent Center for Medical Biotechnology, VIB, Ghent 9000,Belgium
    index: 5
- - name: Department of Biomolecular Medicine, Ghent University, Ghent 9000, BE
+ - name: Department of Biomolecular Medicine, Ghent University, Ghent 9000, Belgium
    index: 6
+ - name: University of Oxford, United Kingdom
+   index: 7
+ - name: Computer Science department, Ahmadu Bello University, Community Market, Zaria 810211, Kaduna, Nigeria
+   index: 8
 
 date: 14 November 2025
 bibliography: paper.bib
@@ -51,43 +61,65 @@ event: BioHackathon Europe 2025
 
 # Introduction or Background
 
-Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
+From Monday, the 3rd November 2025 to Friday, the 7th November 2025 the group number 22 conducted technical tasks to improve the visualisation components developed by Scop3P[TM] project. Both Scop3P and ScoP3PTM have been developed by CompOmics in Ghent, Belgium. CompOmics collaborates with another Belgian lab in Brussels, the Bio2Byte lab led by Prof. Wim Vranken. For the Bio Hackathon edition 2025 in Berlin, Germany, both labs joined forces to co-led the group 22:
 
-Please separate paragraphs with a double line.
+- Pathmanaban Ramasamy (CompOmics), joined in person who coordinate the tasks, provides data and orientation.
+- Natalia Tichshenko (CompOmics), joined in person who contributes in the Linear track
+- Adrián Díaz (Bio2Byte), joined in person who contributes in the 3D/Structural track
 
-## Subsection level 2
+This five-day project is divided in three so-called visual tracks: linear representations, graph representations and 3D/Structural visualisations. On Monday during the kick-off meeting, the group introduced the audience to the goals and required skills. 
 
-Please keep sections to a maximum of three levels, even better if only two levels.
+By Tuesday, the team included these collaborators: 
 
-### Subsection level 3
+- Mahfouz Shehu, joined in person who contributes in the Graph track 
+- Yusuf Shehu, joined remotely from Nigeria who contributes in the Graph track 
+- Elyse Cheng, joined remotely from the United Kingdom who contributes in the 3D/Structural track 
 
-Please keep sections to a maximum of three levels.
+Besides the technical tasks, the social interactions contributed to extend the knowledge of visual components.
 
-## Tables, figures and so on
+## Technical Stack 
 
-Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
+The aim of the hackathon is to build an open-source library of visual components for proteomics projects. The team want to keep it simple and as plug-and-play as possible. To meet these requirements, it has been decided to build all the visual components as Vue.js components (version 3), a modern and relevant JavaScript framework. 
 
-Table 1
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
+About the visual JavaScript libraries, the components are developed using d3.js plots, sigma/graphology for networks representations, nightingale-elements for linear tracks and MolStar for 3D structure visualisation
 
-Remember to introduce figures (see Figure 1) before they appear on the document. 
+Given we want to distribute the components as a library, all our developments are wrapped in Storybook stories.
 
-![BioHackrXiv logo](./biohackrxiv.png)
- 
-Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
+### Tracks
 
-# Other main section on your manuscript level 1
+The final goal of this project is a two-side pane canvas where one side contains the 3D/Structural view (in general to the right) while the other side contains linear or graphs representations of a given protein. We propose novel visualization ideas focusing on bridging sequence (1D), residue contact maps (2D), Residue Interaction Networks (RINs-2.5D), and protein structures (3D). This includes displaying multiple PTMs on the same residue with biological context (tissue, subcell, disease state), peptide coverage maps from mass-spectrometry data, dynamic RINs linking PTMs and mutations, mutation proximity mapping in 3D, visualizing conformational diversity using representative structural states, and predictive visualizations of mutation-induced biophysical changes. The second track focuses on optimizing and improving existing visualizations in Scop3PTM, such as refining the 1D feature viewer for PTMs, enhancing the Mol* 3D viewer, improving 1D-3D linking, and adding biophysical features like ligand binding regions and PTM hotspots.
 
-Feel free to use numbered lists or bullet points as you need.
-* Item 1
-* Item 2
+### Track: Linear
+
+This track contains the Lollypop, Peptides and stacked views. 
+
+Natalia Tichshenko contributed to this track by adding the components in a stacked view inter-conneting the different linear visual components. This stacked view shares the zoom-in/out and it supports tooltips. 
+
+### Track: Graphs
+
+This track contains the Contacts map visualisation. 
+
+Mahfouz Shehu and Yusuf Shehu contributed to this track by converting the provided tabular data (TSV) into a JSON format that can be represented as a network (nodes/edges) using D3.js library.
+
+### Track: 3D/Structural
+
+This track contains the Nightingale linear tracks while the 3D structure is rendered using MolStar. 
+
+Elyse Cheng and Adrián Díaz contributed to this track by converting the JupyterNotebook code provided by Pathmanaban into Vue.JS (version 3) components.
+
+# Social interactions
+
+TBC
+
+## MolStar brainstorming
+
+TBC
 
 # Discussion and/or Conclusion
 
-We recommend to include some discussion or conclusion about your work. Feel free to modify the section title as it fits better to your manuscript.
+Importance of collaboration / discussions with other teams / shared ideas
+
+## 
 
 # Future work
 
@@ -97,11 +129,12 @@ For citations of references, we prefer the use of parenthesis, last name and yea
 
 # Jupyter notebooks, GitHub repositories and data repositories
 
-* Please add a list here
-* Make sure you let us know which of these correspond to Jupyter notebooks. Although not supported yet, we plan to add features for them
-* And remember, software and data need a license for them to be used by others, no license means no clear rules so nobody could legally use a non-licensed research object, whatever that object is
+All the tasks involved in this hackathon project are included in the official public repository hosted on Github. It includes the visual components, example data and the StoryBook stories to preview the components.
+
+1. Official public repository: [Bio2Byte/biohackathon-eu-2025-group-22](https://github.com/Bio2Byte/biohackathon-eu-2025-group-22)
 
 # Acknowledgements
+
 Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
 
 # References
