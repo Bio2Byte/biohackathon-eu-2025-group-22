@@ -16,7 +16,7 @@ export default defineConfig({
       template: {
         compilerOptions: {
           // be specific or allow the whole Nightingale family
-          isCustomElement: (tag) => tag === 'nightingale-sequence' || tag.startsWith('nightingale-') || tag.startsWith('sigma') || tag.startsWith("graphology") || tag.startsWith("pdbe-molstar"),
+          isCustomElement: (tag) => tag === 'nightingale-sequence' || tag.startsWith('nightingale-') || tag.startsWith('sigma') || tag.startsWith("graphology") || tag.startsWith("pdbe-molstar") || tag.startsWith("pdb-topology-viewer"),
         },
       },
     }),
