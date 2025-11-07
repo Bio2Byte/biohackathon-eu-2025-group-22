@@ -22,6 +22,7 @@
     "pinia": "^3.0.3",
     "sigma": "^3.0.2",
     "vue": "^3.5.18",
+    "vue-protein-network-visualizer": "^1.0.2",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
