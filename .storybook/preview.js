@@ -1,3 +1,4 @@
+import '../src/assets/css/protein-network-style.css';
 /** @type { import('@storybook/vue3-vite').Preview } */
 const preview = {
   parameters: {
