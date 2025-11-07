@@ -1,6 +1,8 @@
 import Network from '@/components/track_graphs/network/Network.vue';
+import ProteinNetwork from 'vue-protein-network-visualizer';
+import edgesData from '../../../../../data/track_graphs/protein_data.json';
+import residueData from '../../../../../data/track_graphs/residue_data.json';
 
-/** Simple deterministic PRNG so the same seed reproduces the same graph */
 function mulberry32(seed) {
   let t = seed >>> 0;
   return function () {
@@ -20,7 +22,6 @@ function palette(i) {
 function generateGraph(N, M, rng) {
   const nodes = [];
   for (let i = 0; i < N; i++) {
-    // Random positions in [-1, 1]²
     const x = rng() * 2 - 1;
     const y = rng() * 2 - 1;
     nodes.push({
@@ -33,13 +34,11 @@ function generateGraph(N, M, rng) {
     });
   }
 
-  // Upper bound for simple undirected graph without self-loops
   const maxEdges = (N * (N - 1)) / 2;
   const target = Math.min(M, maxEdges);
   const edgeSet = new Set();
   const edges = [];
 
-  // Helper to canonicalize undirected edge key (a<b)
   const keyOf = (a, b) => {
     const A = Math.min(a, b);
     const B = Math.max(a, b);
@@ -101,6 +100,23 @@ const Template = (args) => ({
   `,
 });
 
+// Template for ProteinNetwork component
+const ProteinTemplate = (args) => ({
+  components: { ProteinNetwork },
+  setup() {
+    return { args };
+  },
+  template: `
+    <ProteinNetwork
+      v-bind="args"
+      @node-click="(node) => console.log('Protein node clicked:', node)"
+      @node-hover="(node) => console.log('Protein node hovered:', edgesData)"
+      @node-select="(node) => console.log('Protein node selected:', node)"
+      @node-deselect="(node) => console.log('Protein node deselected:', node)"
+    />
+  `,
+});
+
 /**
  * Example story: minimal 2-node graph
  */
@@ -143,6 +159,90 @@ MultiNode.args = {
   ],
 };
 
+/**
+ * Protein Network Stories
+ */
+// Story using test data
+export const ProteinBasic = ProteinTemplate.bind({});
+ProteinBasic.args = {
+  width: 800,
+  height: 600,
+  distanceThreshold: 8,
+  background: '#fafafa',
+  edgeData: [
+    { res1: 1, res2: 2, distance: 3.8 },
+    { res1: 2, res2: 3, distance: 4.2 },
+    { res1: 3, res2: 4, distance: 5.1 },
+    { res1: 4, res2: 5, distance: 3.9 },
+    { res1: 5, res2: 1, distance: 6.2 },
+  ],
+  nodeData: [
+    { Residue: 1, CombinedScore: 9.5, Degree: 3, pLDDT: 95.2, Resname: 'ALA' },
+    { Residue: 2, CombinedScore: 7.2, Degree: 3, pLDDT: 89.1, Resname: 'LEU' },
+    { Residue: 3, CombinedScore: 8.8, Degree: 2, pLDDT: 92.4, Resname: 'VAL' },
+    { Residue: 4, CombinedScore: 6.1, Degree: 2, pLDDT: 78.3, Resname: 'SER' },
+    { Residue: 5, CombinedScore: 5.3, Degree: 2, pLDDT: 82.7, Resname: 'THR' },
+  ],
+};
+
+// Story that uses your actual JSON files
+export const ProteinRealData = ProteinTemplate.bind({});
+ProteinRealData.args = {
+  width: 1000,
+  height: 700,
+  distanceThreshold: 8,
+  background: '#ffffff',
+  edgeData: [
+   ...edgesData,
+  ],
+  nodeData: [
+    ...residueData,
+  ],
+};
+
+// Dynamic story that can load different datasets
+export const ProteinDynamic = (args) => {
+  return {
+    components: { ProteinNetwork },
+    setup() {
+      const loadData = async () => {
+        try {
+          alert('Dynamically loaded data');
+          const edgeData = edgesData;
+          const nodeData = residueData;
+
+          return {
+            edgeData:edgeData,
+            nodeData:nodeData
+          };
+        } catch (error) {
+          console.error('Failed to load protein data:', error);
+          return { edgeData: [], nodeData: [] };
+        }
+      };
+
+      return {
+        args,
+        loadData
+      };
+    },
+    template: `
+      <div>
+        <ProteinNetwork
+          v-bind="args"
+          @node-click="(node) => console.log('Protein node clicked:', node)"
+          @node-hover="(node) => console.log('edgesData:', node)"
+        />
+      </div>
+    `,
+  };
+};
+
+ProteinDynamic.args = {
+  width: 1000,
+  height: 700,
+  distanceThreshold: 8,
+};
 /**
  * TODO: Arrange networks
  */
