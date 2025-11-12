@@ -1,8 +1,10 @@
 ---
 title: "BioHackEU25 report: Scop3PTM Next - Interactive visualization of PTM data across sequence, structure and interactions"
-title_short: "BioHackEU25 #22: Scop3PTM Next"
+title_short: "BioHackEU25 Project #22: Scop3PTM Next"
 tags:
+  - research methods in life sciences
   - proteomics
+  - post-translational modification
   - ptm
   - structural biology
 authors:
@@ -12,14 +14,14 @@ authors:
       - 1
       - 2
       - 3
+      - 4
       - 5
-      - 6
   - name: Natalia Tichshenko
     orcid: 0000-0001-7914-0759
     affiliation: 
       - 1
+      - 4
       - 5
-      - 6
   - name: Adrián Díaz
     orcid: 0000-0003-0165-1318
     affiliation: 
@@ -27,13 +29,13 @@ authors:
       - 3
   - name: Mahfouz Shehu
     orcid: 0009-0002-9470-0368
-    affiliation: 4
+    affiliation: 6
   - name: Yusuf Shehu
     orcid: 0009-0009-3732-7051
-    affiliation: 8
+    affiliation: 7
   - name: Elyse Cheng
     orcid: 0009-0007-6402-9709
-    affiliation: 7
+    affiliation: 8
 
 affiliations:
  - name: VIB Structural Biology Research Centre, Brussels 1050, Belgium
@@ -42,15 +44,15 @@ affiliations:
    index: 2
  - name: Structural Biology Brussels, Vrije Universiteit Brussel, Brussels 1050, Belgium
    index: 3
- - name: EMBL-EBI, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, United Kingdom
-   index: 4
  - name: VIB-UGent Center for Medical Biotechnology, VIB, Ghent 9000,Belgium
-   index: 5
+   index: 4
  - name: Department of Biomolecular Medicine, Ghent University, Ghent 9000, Belgium
+   index: 5
+ - name: EMBL-EBI, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, United Kingdom
    index: 6
- - name: University of Oxford, United Kingdom
-   index: 7
  - name: Computer Science department, Ahmadu Bello University, Community Market, Zaria 810211, Kaduna, Nigeria
+   index: 7
+ - name: University of Oxford, United Kingdom
    index: 8
 
 date: 14 November 2025
@@ -60,15 +62,15 @@ authors_short: "Ramasamy P. and Tichshenko N. and Díaz A. and Shehu M. and Sheh
 group: "Project 22"
 event: "BioHackathon Europe 2025"
 biohackathon_name: "BioHackathon Europe 2025"
-biohackathon_url: "https://BioHackathon-europe.org"
-biohackathon_location: "Berlin, Germany, 2025"
-git_url: https://github.com/Bio2Byte/BioHackathon-eu-2025-group-22
+biohackathon_url: "https://bioHackathon-europe.org"
+biohackathon_location: "Bad Saarow, Oder-Spree, Brandenburg, Germany"
+git_url: https://github.com/Bio2Byte/biohackathon-eu-2025-group-22
 
 ---
 
 # Background
 
-From Monday, 3 November 2025, to Friday, 7 November 2025, the group 22 conducted a series of technical tasks aimed at improving the visualisation components developed for the Scop3P and Scop3PTM projects. These efforts are referred as Scop3PTM Next.
+From Monday, 3 November 2025, to Friday, 7 November 2025, the Project #22 conducted a series of technical tasks aimed at improving the visualisation components developed for the Scop3P and Scop3PTM projects. These efforts are referred as Scop3PTM Next.
 
 Scop3P is a comprehensive database of human phosphosites presented within their full biological context. It integrates protein sequences (UniProtKB/Swiss-Prot), structures (PDB) and uniformly reprocessed phosphoproteomics data (PRIDE) to annotate all known human phosphosites [@citesAsAuthority:Scop3P2020]. The resource is available at https://iomics.ugent.be/scop3p.
 
@@ -78,11 +80,11 @@ Both Scop3P and Scop3PTM are developed by _CompOmics_, a research group led by *
 
 _CompOmics_ collaborates closely with _Bio2Byte_ lab, a Structural Biology research group based in Brussels and led by **Prof. Dr. Wim Vranken**. _Bio2Byte_ is affiliated with the VIB Structural Biology Research Centre and the Interuniversity Institute of Bioinformatics in Brussels.
 
-For this BioHackathon Europe both laboratories joined forces to co-lead the group 22.
+For this BioHackathon Europe edition, both laboratories joined forces to co-lead the Project #22.
 
 ## Team organisation
 
-The group 22 was co-led by: 
+The Project #22 was co-led by: 
 
 - **Pathmanaban Ramasamy** (_CompOmics_): attended in person.
   - Coordinated the tasks, provided example data and offered overall guidance.
@@ -93,9 +95,9 @@ The group 22 was co-led by:
 
 During the kick-off meeting on Monday morning, the group outlined the project's objectives and the skills required from participants. The five-day project was divided into three tracks: linear plots, network representations and 3D/structural visualisations.
 
-![Presentation of Group 22's goals and required skills during the kick-off meeting on Monday.](./kickoff.png){ width=250px }
+![Presentation of Project #22's goals and required skills during the kick-off meeting on Monday.](./kickoff.png){ width=250px }
 
-By Tuesday morning, Group 22 had expanded to include new members, both on-site and online:
+By Tuesday morning, Project #22 had expanded to include new members, both on-site and online:
 
 - **Mahfouz Shehu**: attended in person.
   - Contributed to the Graph track.
@@ -141,6 +143,8 @@ The visual library will be available at http://localhost:6006. The left panel is
 
 The first track focuses on improving the existing visualizations in Scop3PTM, by refining the 1D feature viewer for PTMs. It includes displaying multiple PTMs on the same residue with biological context (tissue, subcell, disease state) and peptide coverage maps from mass-spectrometry data. Then, the second track is centred on the network representations of the proteins, such as the contact maps. Finally, the third track, enhancing the MolStar viewer, improving 1D-3D linking, and adding biophysical features like ligand binding regions and PTM hot-spots.
 
+![The visual library of components generated using Storybook framework.](./storybook.png){ width=250px }
+
 ### Linear track
 
 This track is centred in 2D plots where the X-axis contains all the positions of a protein sequence. These plots cover multiple representations of positional values in the Y-axis. These plots are generated using the `D3.js` library.
@@ -178,7 +182,7 @@ In addition to the technical work, the social interactions played a crucial role
 
 We hope this BioHackathon Europe project marks the first step towards developing a collaborative suite of visual components that will be of lasting value to the proteomics community. The repository will remain open and under continuous development.  
 
-![The recap slide presented during the “Final Project Presentations” meeting on Friday morning.](./final.png)
+![The recap slide presented during the “Final Project Presentations” meeting on Friday morning.](./final.png){ width=250px }
 
 # Future work
 
@@ -193,15 +197,16 @@ Several tasks remain to be completed. Once these are finished, the _CompOmics_ t
 
 All tasks associated with this BioHackathon project are available in the official public repository hosted on GitHub. The repository contains the visual components, example datasets, and Storybook stories used to preview the components.  
 
+1. Project 22 description on [elixir-europe/biohackathon-projects-2025](https://github.com/elixir-europe/biohackathon-projects-2025): [Group 22](https://github.com/elixir-europe/biohackathon-projects-2025/blob/364145ab8d705846ef3c1d32ecdb091ea1153ec7/22.md).
 1. Official public repository: [Bio2Byte/BioHackathon-eu-2025-group-22](https://github.com/Bio2Byte/BioHackathon-eu-2025-group-22)  
-2. Network repository: [ygs07/protein-d3-representation](https://github.com/ygs07/protein-d3-representation)  
-3. Network online demo: [Netlify App](https://vue-3-protein-visualizer-sample.netlify.app/)
+1. Network repository: [ygs07/protein-d3-representation](https://github.com/ygs07/protein-d3-representation)  
+1. Network online demo: [Netlify App](https://vue-3-protein-visualizer-sample.netlify.app/)
 
 # Acknowledgements
 
 We would like to express our gratitude to everyone involved in _BioHackathon Europe 2025_ and to all the coordinators who made it possible. We also thank _ELIXIR Belgium_, _CompOmics_ and _Bio2Byte_ for their constant support and help us to be part of this BioHackathon edition.
 
-Special thanks to Group 22's team members for their contributions throughout the week. The co-leaders of the group hope that everyone learned from and enjoyed the experience, whether participating in person or remotely.
+Special thanks to Project #22's team members for their contributions throughout the week. The co-leaders of the group hope that everyone learned from and enjoyed the experience, whether participating in person or remotely.
 
 Finally, we extend our appreciation to the staff of the _Hotel Esplanade Resort & Spa_ for their hospitality and excellent service during our stay at the venue.
 
