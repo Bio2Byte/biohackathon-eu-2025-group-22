@@ -60,110 +60,149 @@ authors_short: "Ramasamy P. and Tichshenko N. and Díaz A. and Shehu M. and Sheh
 group: "Project 22"
 event: "BioHackathon Europe 2025"
 biohackathon_name: "BioHackathon Europe 2025"
-biohackathon_url: "https://biohackathon-europe.org"
+biohackathon_url: "https://BioHackathon-europe.org"
 biohackathon_location: "Berlin, Germany, 2025"
-git_url: https://github.com/Bio2Byte/biohackathon-eu-2025-group-22
+git_url: https://github.com/Bio2Byte/BioHackathon-eu-2025-group-22
 
 ---
 
-# Introduction or Background
+# Background
 
-From Monday, 3 November 2025, to Friday, 7 November 2025, Group 22 conducted a series of technical tasks aimed at improving the visualisation components developed by the Scop3P and Scop3PTM projects. These efforts are referred as Scop3PTM Next.
+From Monday, 3 November 2025, to Friday, 7 November 2025, the group 22 conducted a series of technical tasks aimed at improving the visualisation components developed for the Scop3P and Scop3PTM projects. These efforts are referred as Scop3PTM Next.
 
-Scop3P is a comprehensive database of human phosphosites presented within their full biological context. It integrates protein sequences (UniProtKB/Swiss-Prot), structures (PDB), and uniformly reprocessed phosphoproteomics data (PRIDE) to annotate all known human phosphosites [@citesAsAuthority:Scop3P2020]. The resource is available at https://iomics.ugent.be/scop3p.
+Scop3P is a comprehensive database of human phosphosites presented within their full biological context. It integrates protein sequences (UniProtKB/Swiss-Prot), structures (PDB) and uniformly reprocessed phosphoproteomics data (PRIDE) to annotate all known human phosphosites [@citesAsAuthority:Scop3P2020]. The resource is available at https://iomics.ugent.be/scop3p.
 
-Scop3P is currently being extended to Scop3PTM, which will provide a unique and powerful resource for understanding the impact of PTM sites on human protein structure–function relationships. While the original Scop3P system integrated 36 projects, 60.2 million processed spectra, and one modification type, the new system will encompass 539 projects, approximately 1 billion processed spectra, and more than 117 modification artifacts.
+Scop3P is currently being extended to Scop3PTM, which will provide a unique and powerful resource for understanding the impact of PTM sites on human protein structure–function relationships. While the original Scop3P system integrated 36 projects, 60.2 million processed spectra, and one modification type, the new system will encompass 539 projects, approximately 1 billion processed spectra and more than 117 modification artifacts.
 
-Both Scop3P and Scop3PTM are developed by CompOmics, a research group led by Prof. Dr. Lennart Martens. CompOmics is part of the Department of Biomolecular Medicine within the Faculty of Medicine and Health Sciences at Ghent University, and is affiliated with the VIB-UGent Center for Medical Biotechnology (VIB), both located in Ghent, Belgium.
+Both Scop3P and Scop3PTM are developed by _CompOmics_, a research group led by **Prof. Dr. Lennart Martens**. This group is part of the Department of Biomolecular Medicine within the Faculty of Medicine and Health Sciences at Ghent University and is affiliated with the VIB-UGent Center for Medical Biotechnology (VIB), both located in Ghent, Belgium.
 
-CompOmics collaborates closely with Bio2Byte, another Belgian research group based in Brussels and led by Prof. Dr. Wim Vranken. Bio2Byte is affiliated with the VIB Structural Biology Research Centre and the Interuniversity Institute of Bioinformatics in Brussels.
+_CompOmics_ collaborates closely with _Bio2Byte_ lab, a Structural Biology research group based in Brussels and led by **Prof. Dr. Wim Vranken**. _Bio2Byte_ is affiliated with the VIB Structural Biology Research Centre and the Interuniversity Institute of Bioinformatics in Brussels.
 
-For the BioHackathon Europe 2025 in Berlin, Germany, both laboratories joined forces to co-lead Group 22, composed of:
+For this BioHackathon Europe both laboratories joined forces to co-lead the group 22.
 
-- Pathmanaban Ramasamy (CompOmics) – attended in person; coordinated the tasks, provided data, and offered guidance.
-- Natalia Tichshenko (CompOmics) – attended in person; contributed to the Linear track.
-- Adrián Díaz (Bio2Byte) – attended in person; contributed to the 3D/Structural track.
+## Team organisation
 
-This five-day project was structured into three visualisation tracks: linear representations, graph representations, and 3D/structural visualisations. On Monday, during the kick-off meeting, the group introduced the objectives and required skills to the participants.
+The group 22 was co-led by: 
 
-By Tuesday, the team had expanded to include:
+- **Pathmanaban Ramasamy** (_CompOmics_): attended in person.
+  - Coordinated the tasks, provided example data and offered overall guidance.
+- **Natalia Tichshenko** (_CompOmics_): attended in person.
+  - Coordinated the tasks, provided example data, contributed to the Linear track.
+- **Adrián Díaz** (_Bio2Byte_): attended in person.
+  - Coordinated the tasks, contributed to the 3D/Structural track.
 
-- Mahfouz Shehu – attended in person; contributed to the Graph track.
-- Yusuf Shehu – joined remotely from Nigeria; contributed to the Graph track.
-- Elyse Cheng – joined remotely from the United Kingdom; contributed to the 3D/Structural track.
+During the kick-off meeting on Monday morning, the group outlined the project's objectives and the skills required from participants. The five-day project was divided into three tracks: linear plots, network representations and 3D/structural visualisations.
 
-In addition to the technical work, social interactions among participants helped broaden the group’s collective understanding of visualisation components.
+![Presentation of Group 22's goals and required skills during the kick-off meeting on Monday.](./kickoff.png){ width=250px }
+
+By Tuesday morning, Group 22 had expanded to include new members, both on-site and online:
+
+- **Mahfouz Shehu**: attended in person.
+  - Contributed to the Graph track.
+- **Yusuf Shehu**: joined remotely from Nigeria.
+  - Contributed to the Graph track.
+- **Elyse Cheng**: joined remotely from the United Kingdom.
+  - Contributed to the 3D/Structural track.
+
+![The complete group picture including on-site and online members.](./group.png)
+
+# Goals
+
+The final goal of this project is a two-side pane canvas where one side contains the 3D/Structural view (in general to the right) while the other side contains linear or graphs representations of a given protein. We propose novel visualization ideas focusing on bridging sequence (1D), residue contact maps (2D), Residue Interaction Networks (RINs-2.5D) and protein structures (3D). 
 
 ## Technical Stack 
 
-The aim of the hackathon is to build an open-source library of visual components for proteomics projects. The team wants to keep it simple and as plug-and-play as possible. To meet these requirements, all visual components are being developed as Vue.js (version 3) components, using a modern and widely adopted JavaScript framework.  
+We decided to build the components using the JavaScript programming language, based on the [`Node.js`](https://nodejs.org/en)[@citesAsAuthority:nodejs] runtime environment (LTS version `Jod`, specifically `v22.14.0`). To manage `Node.js` versions, we rely on [`nvm`](https://github.com/nvm-sh/nvm)[@citesAsAuthority:nvm].
 
-Regarding the visual JavaScript libraries, the components are built with **D3.js** for data visualisation, **Sigma/Graphology** for network representations, **Nightingale Elements** for linear tracks, and **MolStar**[@citesAsAuthority:Molstar2021] for 3D structure visualisation.  
+The aim of the project was to develop an open-source library of visual components for proteomics projects. As a team requirement, we wanted to keep the implementation simple and as plug-and-play as possible. To meet these requirements, all visual representations were developed as [`Vue.js`](https://vuejs.org/guide/introduction.html) (version 3) components [@citesAsAuthority:vuejs].
 
-Since the goal is to distribute the components as a reusable library, all developments are encapsulated as **Storybook** stories.
+With respect to dependencies, the project requires [`D3.js`](https://d3js.org) for the linear and network representations, `Nightingale Elements` [@citesAsAuthority:Nightingale2023] for positional tracks, and `MolStar` [@citesAsAuthority:Molstar2021] for the visualisation and analysis of large-scale molecular data. In particular, we used `MolSpecView` [@citesAsAuthority:molspecview2025] (referred as `MSV`) to generate the 3D views. The inclusion of `MSV` is a great example of new ideas after discussing with other groups during the working week at the venue. We hold several small discussions on the fly with Group 19, "MolViewSpec: A presentation layer for structural molecular data" and they taught how to start using `MSV` for our 3D rendering needs.
 
-### Tracks
+Given the goal was to distribute the components as a reusable library, all developments are encapsulated as [`Storybook`](https://storybook.js.org) UI components [@citesAsAuthority:storybook]. This JavaScript framework enables the creation of isolated components and interaction with them without the need to run the entire application.  
 
-The final goal of this project is a two-side pane canvas where one side contains the 3D/Structural view (in general to the right) while the other side contains linear or graphs representations of a given protein. 
+To simplify both the development process and the learning curve, we created a [public repository](https://github.com/Bio2Byte/BioHackathon-eu-2025-group-22) containing example files for each track. 
 
-We propose novel visualization ideas focusing on bridging sequence (1D), residue contact maps (2D), Residue Interaction Networks (RINs-2.5D), and protein structures (3D). This includes displaying multiple PTMs on the same residue with biological context (tissue, subcell, disease state), peptide coverage maps from mass-spectrometry data, dynamic RINs linking PTMs and mutations, mutation proximity mapping in 3D, visualizing conformational diversity using representative structural states, and predictive visualizations of mutation-induced biophysical changes. The second track focuses on optimizing and improving existing visualizations in Scop3PTM, such as refining the 1D feature viewer for PTMs, enhancing the Mol* 3D viewer, improving 1D-3D linking, and adding biophysical features like ligand binding regions and PTM hot-spots.
+```bash
+git clone git@github.com:Bio2Byte/biohackathon-eu-2025-group-22.git
+cd biohackathon-eu-2025-group-22
+```
 
-### Track: Linear
+This repository includes the setup for all referenced libraries, allowing any user to access and explore the visual component library through the Storybook framework.
 
-This track contains the Lollypop, Peptides and stacked views. 
+```bash
+nvm use
+npm install
+npm run storybook
+``` 
 
-Natalia Tichshenko contributed to this track by adding the components in a stacked view inter-connecting the different linear visual components. This stacked view shares the zoom-in/out and it supports tooltips. 
+The visual library will be available at http://localhost:6006. The left panel is organised into folders corresponding to the different tracks and their respective components. At the bottom, a parameters section allows users to modify the properties of the shown component.
 
-### Track: Graphs
+## Tracks
 
-This track contains the Contacts map visualisation. 
+The first track focuses on improving the existing visualizations in Scop3PTM, by refining the 1D feature viewer for PTMs. It includes displaying multiple PTMs on the same residue with biological context (tissue, subcell, disease state) and peptide coverage maps from mass-spectrometry data. Then, the second track is centred on the network representations of the proteins, such as the contact maps. Finally, the third track, enhancing the MolStar viewer, improving 1D-3D linking, and adding biophysical features like ligand binding regions and PTM hot-spots.
 
-Mahfouz Shehu and Yusuf Shehu contributed to this track by converting the provided tabular data (TSV) into a JSON format that can be represented as a network (nodes/edges) using D3.js library.
+### Linear track
 
-### Track: 3D/Structural
+This track is centred in 2D plots where the X-axis contains all the positions of a protein sequence. These plots cover multiple representations of positional values in the Y-axis. These plots are generated using the `D3.js` library.
 
-This track contains the Nightingale linear tracks while the 3D structure is rendered using MolStar. 
+- The *lollipop plot* for displaying positional modifications.  
+- The *peptides plot* for showing coverage derived from mass spectrometry data.
 
-Elyse Cheng and Adrián Díaz contributed to this track by converting the JupyterNotebook code provided by Pathmanaban into Vue.JS (version 3) components.
+Both plots, developed by **Natalia Tichshenko**, are designed to be integrated within a container component called the `stacked view`, which enables shared tooltips and zooming across all stacked plots.
+
+### Network track
+
+This track focuses on node-edge representations as networks. For this BioHackathon, we decided to implement contact maps as the first visual component. This network renders the distances between all pairs of residues within a protein structure.
+
+**Mahfouz Shehu** and **Yusuf Shehu** contributed to this track by converting the provided tabular data (TSV) into a JSON format suitable for network representation (nodes and edges) using the D3.js library. This work is available in the GitHub repository [ygs07/protein-d3-representation](https://github.com/ygs07/protein-d3-representation) and can be integrated into our Storybook visual library via npm (`vue-protein-network-visualizer`). The integration code is available on the branch `2025/november/feature/protein-network-visualisation`. 
+
+### 3D/Structural track
+
+This track focuses on the `Nightingale` linear tracks and the protein's 3D structure. As a starting point, **Pathmanaban Ramasamy** shared a document in `Jupyter Notebook` format (an interactive document written in `Markdown` and `Python` code snippets) that generates a two-panel interface linking positional tracks to the 3D representation of the protein of interest. 
+
+**Elyse Cheng** contributed to this track by converting the Jupyter Notebook code into `Vue.js` (version 3) components corresponding to each `Nightingale` element, while **Adrián Díaz** implemented the `MolSpecView` library to render the 3D structure.
+
+Additionally to the 3D structure, we included the [`Topology viewer`](https://github.com/PDBeurope/pdb-topology-viewer) part of the "PDB Component Library", to show connect the Nightingale tracks to the secondary structure of the protein of interest.
 
 # Social interactions
 
-In addition to the excellent opportunity of working in a hybrid setup with in-site and online members, this section contain examples of relevant and helpful interactions during the week.
+This project brought together a multidisciplinary team of participants with diverse backgrounds and experiences. It provided an opportunity to work in a hybrid setting, combining both on-site and online participation. The group had members working remotely from the UK and Nigeria.
 
-## Team composition
+On Wednesday, the on-site members of the group presented its progress during the "Mid-week reporting poster session & coffee break" held in the main room of the venue. Our poster was designed to visually cover the ideas that emerged from social interactions, the group's shared vision and the progress of the hands-on work of the three different tracks.
 
-This project teamed up in a multidisciplinary group of people with diverse backgrounds and experiences. 
+![The hand-written poster elaborated for the "Mid-week reporting poster session & coffee break" on Wednesday afternoon.](./poster.png){ width=250px }
 
-## F2F Discussions
+# Discussion and conclusions
 
-These are the examples of talks taking place at the venue in the Splanade Hotel in Germany.
- 
-### MolStar brainstorming
+In addition to the technical work, the social interactions played a crucial role in broadening the group's collective understanding of visualisation components, requirements and best practices for providing the proteomics community with relevant tools.  
 
-TBC
+We hope this BioHackathon Europe project marks the first step towards developing a collaborative suite of visual components that will be of lasting value to the proteomics community. The repository will remain open and under continuous development.  
 
-### Dr. Davide Cirillo talk
-
-Another example of a great knowledge exchange is a discussion during a breakfast where Dr. Cirillo provided us with publications and links to useful resources related to protein visualisation. 
-
-# Discussion and/or Conclusion
-
-TBC
+![The recap slide presented during the “Final Project Presentations” meeting on Friday morning.](./final.png)
 
 # Future work
 
-TBC
+Several tasks remain to be completed. Once these are finished, the _CompOmics_ team will implement the visual components on both the Scop3P and Scop3PTM websites:
+
+1. Install and configure the npm package for the contact map.  
+1. Complete the conversion of the Jupyter Notebook's `Nightingale` components into `Vue.js` components.  
+1. Add support for overlapping/aligned structures.  
+1. Connect click events between both panels of the two-panel interface.
 
 # Jupyter notebooks, GitHub repositories and data repositories
 
-All the tasks involved in this hackathon project are included in the official public repository hosted on Github. It includes the visual components, example data and the StoryBook stories to preview the components.
+All tasks associated with this BioHackathon project are available in the official public repository hosted on GitHub. The repository contains the visual components, example datasets, and Storybook stories used to preview the components.  
 
-1. Official public repository: [Bio2Byte/biohackathon-eu-2025-group-22](https://github.com/Bio2Byte/biohackathon-eu-2025-group-22)
+1. Official public repository: [Bio2Byte/BioHackathon-eu-2025-group-22](https://github.com/Bio2Byte/BioHackathon-eu-2025-group-22)  
+2. Network repository: [ygs07/protein-d3-representation](https://github.com/ygs07/protein-d3-representation)  
+3. Network online demo: [Netlify App](https://vue-3-protein-visualizer-sample.netlify.app/)
 
 # Acknowledgements
 
-Thanks to all the people involved in the "BioHackathon Europe 2025" and all the ELIXIR collaborators who made it happen. Special thanks to our hackathon members for their contributions during the week. Kudos to all of them, the co-leaders of the group wish they learned and enjoy the experience either in person or remotely. Finally, thanks to the "Hotel Esplanade Resort & Spa" staff members for the accommodation and services provided to us.
+We would like to express our gratitude to everyone involved in _BioHackathon Europe 2025_ and to all the coordinators who made it possible. We also thank _ELIXIR Belgium_, _CompOmics_ and _Bio2Byte_ for their constant support and help us to be part of this BioHackathon edition.
 
-We hope this is the first step in the journey of building a useful collaborative suite of visual components open to the proteomics community.
+Special thanks to Group 22's team members for their contributions throughout the week. The co-leaders of the group hope that everyone learned from and enjoyed the experience, whether participating in person or remotely.
+
+Finally, we extend our appreciation to the staff of the _Hotel Esplanade Resort & Spa_ for their hospitality and excellent service during our stay at the venue.
 
 # References
