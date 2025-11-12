@@ -139,11 +139,11 @@ npm run storybook
 
 The visual library will be available at http://localhost:6006. The left panel is organised into folders corresponding to the different tracks and their respective components. At the bottom, a parameters section allows users to modify the properties of the shown component.
 
+![The visual library of components generated using Storybook framework.](./storybook_3d.png){ width=250px }
+
 ## Tracks
 
 The first track focuses on improving the existing visualizations in Scop3PTM, by refining the 1D feature viewer for PTMs. It includes displaying multiple PTMs on the same residue with biological context (tissue, subcell, disease state) and peptide coverage maps from mass-spectrometry data. Then, the second track is centred on the network representations of the proteins, such as the contact maps. Finally, the third track, enhancing the MolStar viewer, improving 1D-3D linking, and adding biophysical features like ligand binding regions and PTM hot-spots.
-
-![The visual library of components generated using Storybook framework.](./storybook.png){ width=250px }
 
 ### Linear track
 
@@ -154,11 +154,15 @@ This track is centred in 2D plots where the X-axis contains all the positions of
 
 Both plots, developed by **Natalia Tichshenko**, are designed to be integrated within a container component called the `stacked view`, which enables shared tooltips and zooming across all stacked plots.
 
+![Example of the lollipop component for positional values created by **Natalia Tichshenko**](./lollipop.png)
+
 ### Network track
 
 This track focuses on node-edge representations as networks. For this BioHackathon, we decided to implement contact maps as the first visual component. This network renders the distances between all pairs of residues within a protein structure.
 
 **Mahfouz Shehu** and **Yusuf Shehu** contributed to this track by converting the provided tabular data (TSV) into a JSON format suitable for network representation (nodes and edges) using the D3.js library. This work is available in the GitHub repository [ygs07/protein-d3-representation](https://github.com/ygs07/protein-d3-representation) and can be integrated into our Storybook visual library via npm (`vue-protein-network-visualizer`). The integration code is available on the branch `2025/november/feature/protein-network-visualisation`. 
+
+![The network component for contact maps created by **Mahfouz Shehu** and **Yusuf Shehu**.](./network.png)
 
 ### 3D/Structural track
 
@@ -166,7 +170,11 @@ This track focuses on the `Nightingale` linear tracks and the protein's 3D struc
 
 **Elyse Cheng** contributed to this track by converting the Jupyter Notebook code into `Vue.js` (version 3) components corresponding to each `Nightingale` element, while **Adrián Díaz** implemented the `MolSpecView` library to render the 3D structure.
 
+![Example of the tracks migrated by **Elyse Cheng*.](./combined_tracks.png)
+
 Additionally to the 3D structure, we included the [`Topology viewer`](https://github.com/PDBeurope/pdb-topology-viewer) part of the "PDB Component Library", to show connect the Nightingale tracks to the secondary structure of the protein of interest.
+
+![The Topology viewer connected to the two-panel component.](./storybook_2d.png)
 
 # Social interactions
 
