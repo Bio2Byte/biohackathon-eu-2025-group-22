@@ -37,11 +37,11 @@ authors:
   - name: Yusuf Shehu
     orcid: 0009-0009-3732-7051
     affiliation: 7
-    role: Methodology, Software.
+    role: Methodology, Visualization, Software.
   - name: Elyse Cheng
     orcid: 0009-0007-6402-9709
     affiliation: 8
-    role: Methodology, Software.
+    role: Methodology, Visualization, Software.
 
 affiliations:
  - name: VIB Structural Biology Research Centre, Brussels 1050, Belgium
@@ -58,7 +58,7 @@ affiliations:
    index: 6
  - name: Computer Science department, Ahmadu Bello University, Community Market, Zaria 810211, Kaduna, Nigeria
    index: 7
- - name: University of Oxford, United Kingdom
+ - name: St Hilda's College, University of Oxford, Cowley Place, Oxford, OX4 1DY, United Kingdom
    index: 8
 
 date: 14 November 2025
