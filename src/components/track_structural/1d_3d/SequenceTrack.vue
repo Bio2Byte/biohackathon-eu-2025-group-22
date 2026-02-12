@@ -19,7 +19,6 @@
 </script>
 
 <template>
-    <h1>Example track for {{ props.sequence.length }} AA using {{ props.height }} pixels</h1>
     <nightingale-sequence
         ref="seqEl"
         :sequence="props.sequence"
@@ -29,9 +28,6 @@
         display-start="1"
         :display-end="props.sequence.length"
     />
-    <p>
-        End of the story.
-    </p>
 </template>
 
 <style scoped></style>

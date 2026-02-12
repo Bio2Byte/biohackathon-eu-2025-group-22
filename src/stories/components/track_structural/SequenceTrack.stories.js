@@ -1,9 +1,9 @@
-import Track from "@/components/track_structural/1d_3d/Track.vue";
+import SequenceTrack from "@/components/track_structural/1d_3d/SequenceTrack.vue";
 
 
 export default {
-  title: 'Tracks/Structural/Track',
-  component: Track,
+  title: 'Tracks/Structural/SequenceTrack',
+  component: SequenceTrack,
   parameters: {
     layout: 'centered',
   },
@@ -22,7 +22,7 @@ export default {
 /**
  * Primary template with red background
  */
-export const Single = {
+export const Sequence = {
   args: {
     sequence: 'SEQUENCESEQUENCESEQUENCESEQUENCE',
     height: 40
